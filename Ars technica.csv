@@ -1,0 +1,1250 @@
+"date","title","content","articles","url"
+"5/9/2023, 5:48 AM","After 18 months, GitHub’s big code search overhaul is generally available","The technical preview that started in December 2021 is now available to everyone.","RUMMAGING THROUGH REPOS —
+After 18 months, GitHub’s big code search overhaul is generally available
+The technical preview that started in December 2021 is now available to everyone.
+
+SAMUEL AXON - 5/9/2023, 5:48 AM
+
+GitHub's new code search.
+ GitHub
+GitHub's new code view.
+ GitHub
+Previous Slide
+Next Slide
+
+GitHub has announced the general availability of a ground-up rework of its code search that has been in development for years.
+
+The changes include substantial new functionality that is significantly more aware of context. The company says its new code search is ""about twice as fast"" as the old code search and that it ""understands code, putting the most relevant results first.""
+
+That's on top of redesigned search and code view interfaces. The new search interface offers suggestions and completions and categorizes and formats the results more intelligently.
+
+Within the code view, you can easily see references in a side panel, more or less matching what you'd be able to do in Visual Studio when it comes to looking up and navigating to references. Substring queries, regular expressions, and symbol search are also supported.
+
+Advertisement
+
+FURTHER READING
+The time has come: GitHub expands 2FA requirement rollout March 13
+GitHub published a guide to syntax, including but not limited to the usual stuff like leveraging boolean operations in queries or performing an exact search with quotation marks. There are also more specific features, like limiting your search to a specific repository, language, path, or organization.
+
+This overhaul was first made available as a technology preview with a waitlist in December 2021. Those who opted in and were offered the new search spent a long time using it alongside the old code search as a separate tool.
+
+If you want to go way deeper in understanding it, you can check out the GitHub engineering blog's February 2023 post detailing exactly how it works, which technologies were used to build it, and so on.
+
+The changes are meant to improve productivity for software developers—for example, the new search could be much more efficient for finding specific vulnerabilities in a large codebase.
+
+As noted, the change has been in the works for a while, but GitHub is positioning it as part of a larger initiative to bring more intelligence to the platform. The other most notable bullet point in that initiative is the enrichening and expansion of the AI coding tool Copilot leveraging generative AI.
+
+Listing image by GitHub","https://arstechnica.com/gadgets/2023/05/after-18-months-githubs-big-code-search-overhaul-is-generally-available/"
+"5/9/2023, 5:31 AM","Next-gen Apple Watch will reportedly get its first major CPU upgrade in years","The chip's new CPU will reportedly be based on the Apple A15 instead of the A13.","FRESH CHIP —
+Next-gen Apple Watch will reportedly get its first major CPU upgrade in years
+The chip's new CPU will reportedly be based on the Apple A15 instead of the A13.
+
+ANDREW CUNNINGHAM - 5/9/2023, 5:31 AM
+
+Enlarge / The Apple Watch Series 7, which uses a chip that is very similar to its predecessor (the Series 6) and its successor (the Series 8).
+Corey Gaskin
+
+Technically, each year's Apple Watch includes a processor upgrade. The Apple Watch Series 8 comes with an Apple S8 processor, which is a larger number than the S7 SoC that came with the Series 7 or the S6 that came with the Series 6.
+
+However, none of those processors has actually provided much by way of a performance upgrade; they all seem to use an identical processor with a CPU architecture based on the Apple 13 (presumably the small, energy-efficient cores) and a 7 nm manufacturing process from TSMC.
+
+FURTHER READING
+Apple Watch Series 3, dead in all but name, now actually dead
+
+Bloomberg's Mark Gurman (via MacRumors) says this year will be different. He says the next-generation chip (presumably the Apple S9) will be a more substantial upgrade than the last few, with a new processor based on the same architecture used in Apple's newer A15 chip. And if the CPU is changing, Apple could also take the opportunity to upgrade the manufacturing process, potentially providing a boost in battery life (and other features) along with an increase in speed.
+
+A new chip would likely be the most interesting thing about the next-generation Apple Watch's hardware; Gurman doesn't expect major design changes for the watch this year, and we can probably expect it to look about the same as every Apple Watch introduced since 2018's Series 4 design increased the screen sizes. Gurman expects a fairly substantial overhaul for the watchOS software this year, though, with a revamped user interface centered on iOS-style widgets.
+
+The benefit of keeping the processor relatively unchanged for so many years is that a newer watchOS should run equally well on several generations' worth of watch hardware rather than requiring the latest and greatest chip to shine. It's too early to tell whether the watchOS 10 update will drop any older models; watchOS 9 put the Apple Watch Series 3 out of its misery, though not before updating its software became a major pain.
+
+Ars Technica may earn compensation for sales from links on this post through affiliate programs.","https://arstechnica.com/gadgets/2023/05/next-gen-apple-watch-will-reportedly-get-its-first-major-cpu-upgrade-in-years/"
+"5/9/2023, 3:01 AM","Musk issues ultimatum to inactive Twitter users: Log in or be purged","""We cannot release inactive usernames at this time,"" Twitter's policy still says.","URGE TO PURGE —
+Musk issues ultimatum to inactive Twitter users: Log in or be purged
+""We cannot release inactive usernames at this time,"" Twitter's policy still says.
+
+ASHLEY BELANGER - 5/9/2023, 3:01 AM
+
+Enlarge
+Anadolu Agency / Contributor | Anadolu
+
+On Monday, Twitter CEO Elon Musk tweeted a warning that all inactive Twitter accounts would soon be purged, potentially impacting follower counts.
+
+""We’re purging accounts that have had no activity at all for several years, so you will probably see follower count drop,"" Musk tweeted.
+
+Twitter's official policy now considers a user inactive if they fail to log in ""at least every 30 days."" An archived version of this policy shows that as recently as April 19, the policy had been to log in every six months to keep an account active. Twitter seems to have quietly updated the policy within the past few weeks.
+
+Twitter's announcement comes days after Musk threatened to reassign NPR's Twitter account if it stopped posting tweets. The threat came after the news organization announced it was leaving Twitter.
+
+Responding to Musk's seeming pressure to get NPR to rejoin Twitter, NPR reporter Bobby Allyn pointed out that Twitter would be violating its inactive account policy if it reassigned the NPR account. Allyn noted that NPR would only be subject to the policy if it failed to log in, not for failing to tweet, as Musk had suggested would be violative.
+
+Advertisement
+
+""Musk did not answer when asked whether he planned to change the platform's definition of inactivity,"" Allyn reported.
+
+It's still unclear to many Twitter users what the most recent change to the inactive account policy means.
+
+Responding to Musk's most recent tweet, many Twitter users asked if inactive accounts that had previously been suspended—like Donald Trump's, which hasn't tweeted since January 2021—would be purged or if Musk planned to be lenient on suspended accounts that were only recently welcomed back to the platform. Others wondered what the policy change might mean for accounts where the user is deceased, including popular Twitter feeds that memorialize celebrities.
+
+Some dared to dream that Twitter's decision means that long-inactive coveted handles might soon become available. Right now, it does not seem like Twitter has any intention of letting users claim inactive usernames, but Musk moves fast, and that policy could change any day. Twitter's policy still states that ""we cannot release inactive usernames at this time.""","https://arstechnica.com/tech-policy/2023/05/twitter-starts-purging-inactive-accounts-after-quiet-policy-change/"
+"5/9/2023, 2:18 AM","Nintendo, ticked by Zelda leaks, does a DMCA run on Switch emulation tools","One Switch key-dumping project is still up, but an Android emulator is down.","DMCA TAKEDOWNS —
+Nintendo, ticked by Zelda leaks, does a DMCA run on Switch emulation tools
+One Switch key-dumping project is still up, but an Android emulator is down.
+
+KEVIN PURDY - 5/9/2023, 2:18 AM
+
+Enlarge / Tools with great potential often require great effort to unlock. In Zelda games, that usually means a number of Heart Containers. In the emulation underground, you need title keys, shader caches, hotfixes, and a willingness to download from some sketchy sites.
+Nintendo/YouTube
+
+Perhaps woken by news of its next premier first-party title already looking really impressive on emulators, Nintendo has moved to take down key tools for emulating and unlocking Switch consoles, including one that lets Switch owners grab keys from their own device.
+
+Simon Aarons maintained a forked repository of Lockpick, a tool (along with Lockpick_RCM) that grabbed the encryption keys from a Nintendo Switch and allowed it to run officially licensed games. Aarons tweeted on Thursday night that Nintendo had issued DMCA takedown requests to GitHub, asking Lockpick, Lockpick_RCM, and nearly 80 forks and derivations to be taken down under section 1201 of the Digital Millennium Copyright Act, which largely makes illegal the circumvention of technological protection measures that safeguard copyrighted material.
+
+Nintendo's takedown request (RTF file) notes that the Switch contains ""multiple technological protection measures"" that allow the Switch to play only ""legitimate Nintendo video game files."" Lockpick tools, combined with a modified Switch, let users grab the cryptographic keys from their own Switch and use them on ""systems without Nintendo's Console TPMs"" to play ""pirated versions of Nintendo's copyright-protected game software."" GitHub typically allows repositories with DMCA strikes filed against them to remain open while their maintainers argue their case.
+
+Still, it was an effective move. Seeing Nintendo's move on Lockpick, a popular Switch emulator on Android, Skyline, called it quits over the weekend, at least as a public-facing tool you can easily download to your phone. In a Discord post [Edit, 5pm Eastern: Previously described as removed, but now linked], developer ""Mark"" wrote that ""the risks associated with a potential legal case are too high for us to ignore, and we cannot continue knowing that we may be in violation of copyright law.""
+
+Advertisement
+
+Prior to Nintendo's DMCA request, Skyline's team had believed that using keys from your own Switch console, to emulate games you legally purchased, was legal. Skyline remains as an open source project, though the core team will not update or otherwise work on it as of Sunday. Other popular Switch emulators for PC, Yuzu, and Ryujinx, remain online, with the Ryujinx team issuing a statement on their Discord that they would not be shutting down, according to news reports.
+
+FURTHER READING
+Hands-on with Tears of the Kingdom’s Zelda-meets-Minecraft construction set
+
+Lockpick, which remains up as of this writing, has been in development since early 2019. Nintendo's sudden interest in ensuring that people can't rip keys from their Switch or emulate Switch games regardless of provenance likely stems from this week's May 12 launch of The Legend of Zelda: Tears of the Kingdom. Physical copies of Tears began circulating shortly before May 1, leading to the game being dumped, pirated, played, and streamed, although usually for only moments before Nintendo moved to shut down Discord servers and Twitch streams.
+
+Nintendo has been fighting uses of its hardware beyond anything it intended for nearly its entire life, at least as a video game company. The DS, 3DS, Wii, and even the Game & Watch novelty release have all seen hacking and homebrew scenes. The Switch, in particular, has seen Nintendo work hard to avoid widespread piracy, setting up online blockers for pirates, releasing new hack-resistant hardware, targeting online mod retailers, issuing ISP-level blocks, and, most recently, following through on criminal prosecution that will leave one hack-team member likely paying the company for the rest of his life.
+
+Every time Nintendo clamps down on the tools used to enable piracy, it also disrupts the ecosystems that produce Linux installations, homebrew games and tools, and emulators for legally purchased games. That said, Tears of the Kingdom is rather easy to find online at the moment, as are exhaustive guides to getting the game running in PC emulation tools. The cat seems entirely out of the bag, but this cat also requires hours of effort to get running smoothly on even the most upgraded PC and requires lots of downloads from sites that push ad blockers to their limits.
+
+Most people who want to really play and enjoy Tears will do so with a Switch and a purchase. Nintendo will mostly succeed at making any other approaches harder to pull off.","https://arstechnica.com/gaming/2023/05/nintendo-files-dmca-takedowns-on-switch-emulation-tools-just-before-tears-debut/"
+"5/9/2023, 2:12 AM","Musk’s only response to graphic shooting images is to doubt gunman’s Nazi ties","Mass shooting images went viral on Twitter despite seemingly violating policies.","CAUSING DISTRESS —
+Musk’s only response to graphic shooting images is to doubt gunman’s Nazi ties
+Mass shooting images went viral on Twitter despite seemingly violating policies.
+
+ASHLEY BELANGER - 5/9/2023, 2:12 AM
+
+Enlarge / A sign asking people to ""Pray for Allen, Texas,"" stands at a memorial to those killed at the Allen Premium Outlets mall after the mass shooting on May 8, 2023, in Allen, Texas.
+Joe Raedle / Staff | Getty Images North America
+
+Graphic images from a Texas mass shooting on Saturday that killed nine (including the gunman) and wounded seven are still circulating on Twitter after spreading virally all weekend. Critics told The New York Times that unlike other platforms, Twitter isn't doing enough to remove or label these ""unusually graphic"" images, especially in footage where dead bodies of some victims, including a young child, appear to be identifiable, Reuters reported.
+
+Family members do ""not deserve to see the dead relatives spread across Twitter for everybody to see,” photojournalist Pat Holloway told the Times. Over the weekend, Holloway joined others in tweeting directly at Twitter CEO Elon Musk to improve the platform's content moderation.
+
+Twitter's policy on sharing content after a violent attack acknowledges that ""exposure to these materials may also cause harm to those that view them."" That policy is primarily focused on banning the distribution of content created by perpetrators of attacks, but it also places restrictions on ""bystander-generated content"" depicting ""dead bodies"" or ""content that identifies victims.""
+
+Another policy on sharing sensitive media says that ""there are also some types of sensitive media content that we don’t allow at all""—including some depictions of deaths, violent crimes, and bodily fluids like blood—""because they have the potential to normalize violence and cause distress to those who view them.""
+
+So far, Musk, Twitter trust and safety chief Ella Irwin, and the @TwitterSafety account have not tweeted or commented to clarify how Twitter's policies apply in this case.
+
+Advertisement
+
+Musk did respond to an account tweeting about the gunman and pushing back against a Washington Post report that described the gunman, Mauricio Garcia, as potentially holding neo-Nazi beliefs. A law enforcement official told The Daily Mail that federal agents had reviewed Garcia's social media accounts and found he ""had expressed an interest in neo-Nazi views"" and could be seen wearing ""a patch on his chest reading RWDS""—an acronym used by extremists and white supremacists standing for ""Right Wing Death Squad.""
+
+""Do they cite any evidence for him being a 'nazi white supremacist'?"" Musk tweeted. He seemed to be asking for clarification after boasting that—unlike news reports describing the shooting, in his view—""this platform is hell bent on being the least untrue source of information.""
+
+It's possible that images from the shooting spread more quickly on Twitter because the platform notably invests less in content moderation than other platforms. Last fall, Twitter came under fire for gutting its content moderation team and then ditching its Trust and Safety Council. Earlier this year, the European Union told Musk to hire more mods or risk falling out of compliance with the EU's Digital Service Act. At that time, Twitter issued a statement that it intended to comply with the EU order, but so far, Musk seems happier to rely on Community Notes and user reports flagging violative content than restoring the Trust and Safety team to prioritize content moderation.
+
+On Twitter, there's an ongoing debate between users who want to share the images from the shooting to protest gun violence and those like Holloway, who expect Twitter to block such sensitive content. For those who want to share the images, Twitter recommends that users proactively mark them as sensitive media. To do that, ""navigate to your safety settings and select the 'Mark media you Tweet as containing material that may be sensitive' option,"" Twitter's policy directs users. Twitter will also apply the sensitive media filter on violative images reported by users.
+
+Twitter did not respond to Ars' request for comment.
+
+Page: 1 2 Next →","https://arstechnica.com/tech-policy/2023/05/twitter-fails-to-remove-label-graphic-images-after-texas-mass-shooting/"
+"5/9/2023, 1:42 AM","White House challenges hackers to break top AI models at DEF CON 31","The ""largest-ever"" AI red team will seek flaws in OpenAI, Google, Anthropic language models.","THE WHITE HAT HOUSE —
+White House challenges hackers to break top AI models at DEF CON 31
+The ""largest-ever"" AI red team will seek flaws in OpenAI, Google, Anthropic language models.
+
+BENJ EDWARDS - 5/9/2023, 1:42 AM
+
+Enlarge / An AI-generated image of the White House in front of a cybernetic background.
+Midjourney
+
+On Thursday, the White House announced a surprising collaboration between top AI developers, including OpenAI, Google, Antrhopic, Hugging Face, Microsoft, Nvidia, and Stability AI, to participate in a public evaluation of their generative AI systems at DEF CON 31, a hacker convention taking place in Las Vegas in August. The event will be hosted by AI Village, a community of AI hackers.
+
+Since last year, large language models (LLMs) such as ChatGPT have become a popular way to accelerate writing and communications tasks, but officials recognize that they also come with inherent risks. Issues such as confabulations, jailbreaks, and biases pose challenges for security professionals and the public. That's why the White House Office of Science, Technology, and Policy endorses pushing these new generative AI models to their limits.
+
+FURTHER READING
+Biden proposes new “Bill of Rights” to protect Americans from AI harms
+
+""This independent exercise will provide critical information to researchers and the public about the impacts of these models and will enable AI companies and developers to take steps to fix issues found in those models,"" says a statement from the White House, which says the event aligns with the Biden administration's AI Bill of Rights and the National Institute of Standards and Technology's AI Risk Management Framework.
+
+In a parallel announcement written by AI Village, organizers Sven Cattell, Rumman Chowdhury, and Austin Carson call the upcoming event ""the largest red teaming exercise ever for any group of AI models."" Thousands of people will take part in the public AI model assessment, which will utilize an evaluation platform developed by Scale AI.
+
+Advertisement
+
+""Red-teaming"" is a process by which security experts attempt to find vulnerabilities or flaws in an organization's systems to improve overall security and resilience.
+
+According to Cattell, the founder of AI Village, ""The diverse issues with these models will not be resolved until more people know how to red team and assess them."" By conducting the largest red-teaming exercise for any group of AI models, AI Village and DEF CON aim to grow the community of researchers equipped to handle vulnerabilities in AI systems.
+
+LLMs have proven surprisingly difficult to lock down in part due to a technique called ""prompt injection,"" which we broke a story about in September. AI researcher Simon Willison has written in detail about the dangers of prompt injection, a technique that can derail a language model into performing actions not intended by its creator.
+
+FURTHER READING
+AI-powered Bing Chat spills its secrets via prompt injection attack [Updated]
+
+During the DEF CON event, participants will have timed access to multiple LLMs through laptops provided by the organizers. A capture-the-flag-style point system will encourage testing a wide range of potential harms. At the end, the person with the most points will win a high-end Nvidia GPU.
+
+""We’ll publish what we learn from this event to help others who want to try the same thing,"" writes AI Village. ""The more people who know how to best work with these models, and their limitations, the better.""
+
+DEF CON 31 will take place on August 10–13, 2023, at Caesar's Forum in Las Vegas.","https://arstechnica.com/information-technology/2023/05/white-house-challenges-hackers-to-break-top-ai-models-at-def-con-31/"
+"5/9/2023, 1:17 AM","Gene editing makes bacteria-killing viruses even more deadly","The viruses are engineered to damage essential E coli. genes.","UNNATURAL BORN KILLERS —
+Gene editing makes bacteria-killing viruses even more deadly
+The viruses are engineered to damage essential E coli. genes.
+
+DIANA GITIG - 5/9/2023, 1:17 AM
+
+Enlarge
+Getty Images
+
+Broad-spectrum antibiotics are akin to nuclear bombs, obliterating every prokaryote they meet. They're effective at eliminating pathogens, sure, but they're not so great for maintaining a healthy microbiome. Ideally, we need precision antimicrobials that can target only the harmful bacteria while ignoring the other species we need in our bodies, leaving them to thrive. Enter SNIPR BIOME, a Danish company founded to do just that. Its first drug—SNIPR001—is currently in clinical trials.
+
+The drug is designed for people with cancers involving blood cells. The chemotherapy these patients need can cause immunosuppression along with increased intestinal permeability, so they can't fight off any infections they may get from bacteria that escape from their guts into their bloodstream. The mortality rate from such infections in these patients is around 15–20 percent. Many of the infections are caused by E. coli, and much of this E. coli is already resistant to fluoroquinolones, the antibiotics commonly used to treat these types of infections.
+
+The team at SNIPR BIOME engineers bacteriophages, viruses that target bacteria, to make them hyper-selective. They started by screening 162 phages to find those that would infect a broad range of E. coli strains taken from people with bloodstream or urinary tract infections, as well as from the guts of healthy people. They settled on a set of eight different phages. They then engineered these phages to carry the genes that encode the CRISPR DNA-editing system, along with the RNAs needed to target editing to a number of essential genes in the E. coli genome. This approach has been shown to prevent the evolution of resistance.
+
+Advertisement
+
+After testing the ability of these eight engineered phages to kill the E. coli panel alone and in combination, they decided that a group of four of them was the most effective, naming the mixture SNIPR001. But four engineered phages do not make a drug; the team confirmed that SNIPR001 remains stable for five months in storage and that it does not affect any other gut bacteria.
+
+The researchers showed that SNIPR001 was well-tolerated in Göttingen minipigs—after oral administration, the pigs did not exhibit any clinical, biochemical, hematological, or immunological effects, and no phages were found in their blood, so there was no systemic exposure. In mice, oral administration of SNIPR001 reduced the amount of target E. coli in the feces, and none of the recovered E. coli were resistant to the phage cocktail.
+
+Phage therapy, tempting though it is in theory, has a checkered history at best. But SNIPR BIOME’s goal of using CRISPR to precisely target only harmful bacteria may revitalize this technique, allowing us to continue vanquishing our bacterial foes without promoting drug resistance.
+
+Nature Biotechnology, 2023. DOI: 10.1038/s41587-023-01759-y","https://arstechnica.com/science/2023/05/gene-editing-makes-bacteria-killing-viruses-even-more-deadly/"
+"5/9/2023, 1:02 AM","Trinity Test is front and center in trailer for Christopher Nolan’s Oppenheimer","""We're in a race against the Nazis, and I know what it means if the Nazis have a bomb.""","AMERICAN PROMETHEUS —
+Trinity Test is front and center in trailer for Christopher Nolan’s Oppenheimer
+""We're in a race against the Nazis, and I know what it means if the Nazis have a bomb.""
+
+JENNIFER OUELLETTE - 5/9/2023, 1:02 AM
+
+Cillian Murphy plays the ""father of the atomic bomb"" in Christopher Nolan's new film Oppenheimer.
+
+Universal Studios has released another trailer for Christopher Nolan's forthcoming film Oppenheimer, which is based on the Pulitzer Prize-winning 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin. Cillian Murphy stars as physicist J. Robert Oppenheimer, marking the sixth time Murphy has worked with Nolan. Universal Pictures describes the film as ""an epic thriller that thrusts audiences into the pulse-pounding paradox of the enigmatic man who must risk destroying the world in order to save it.""
+
+Industry watchers will note that this is the first film Nolan has made without partnering with Warner Bros. since 2002's Insomnia. Chalk up the falling out to the impact of the COVID-19 pandemic on Hollywood, notably Warner Bros.'s controversial decision to release all its 2021 films simultaneously in theaters and on HBO Max. The studio followed this strategy for Nolan's 2020 sci-fi thriller Tenet, which grossed just $365 million worldwide against its $200 million budget. While this technically made Tenet the fifth biggest film of 2020, by industry standards, it was a box office failure.
+
+Nolan was deeply unhappy with this arrangement, particularly since the studio hadn't conferred with him prior to making the decision about Tenet. So when he decided to write and direct Oppenheimer, the director approached several other studios about partnering with him on the project, eventually signing on with Universal.
+
+Enlarge / Cillian Murphy as J. Robert Oppenheimer
+YouTube/Universal Pictures
+
+The cast includes Matt Damon as Major General Leslie R. Groves, head of the Manhattan Project; Emily Blunt as Kitty Oppenheimer; Robert Downey Jr. as Atomic Energy Commission (AEC) chair Lewis Strauss; Florence Pugh as Oppenheimer's mistress, Jean Tatlock; Josh Hartnett as Ernest Lawrence; Matthew Modine as Vannevar Bush; Matthias Schweighöfer as Werner Heisenberg; Christopher Denham as Klaus Fuchs; Gary Oldman as Harry S. Truman; David Krumholtz as I.I. Rabi; Devon Bostick as Seth Neddermeyer; Josh Peck as Kenneth Bainbridge; Danny Deferrari as Enrico Fermi; Benny Safdie as Edward Teller; Gustaf Skarsgård as Hans Bethe; and Tom Conti as Albert Einstein. In addition, Rami Malek, Kenneth Branagh, Jack Quaid, David Dastmalchian, Alex Wolff, Scott Grimes, James D'Arcy, and Casey Affleck will appear in as-yet-undisclosed roles.
+
+Advertisement
+
+It's not hard to fathom why Nolan would be drawn to this material. As we've previously reported, Groves chose Oppenheimer to lead the secret weapons laboratory in Los Alamos, New Mexico. Groves felt the physicist had the breadth of knowledge to bring together physicists, chemists, engineers, and metallurgists (among other disciplines) whose expertise would be crucial to the success of the project.
+
+FURTHER READING
+J. Robert Oppenheimer cleared of “black mark” against his name after 68 years
+
+Just before sunrise on July 16, 1945, at the secluded Alamogordo Bombing Range in the Central New Mexican desert, a prototype nuclear bomb nicknamed ""Gadget"" was hoisted to the top of a 100-foot tower and detonated. The blast vaporized the steel tower and produced a mushroom cloud rising to more than 38,000 feet. The heat from the explosion melted the sandy soil around the tower into a mildly radioactive, glassy crust now known as trinitite. The shock wave was powerful enough to break windows 120 miles away. Oppenheimer later recalled that it reminded him of a phrase from the Bhagavad Gita: ""Now I am become Death, destroyer of worlds.""
+
+Page: 1 2 Next →","https://arstechnica.com/gaming/2023/05/trinity-test-is-front-and-center-in-trailer-for-christopher-nolans-oppenheimer/"
+"5/8/2023, 11:57 PM","Welcome to Normal: The town that holds the keys to Rivian’s future","Cash-burning EV startup recruits workers in central Illinois pursuing 50,000-delivery goal.","CORN BELT —
+Welcome to Normal: The town that holds the keys to Rivian’s future
+Cash-burning EV startup recruits workers in central Illinois pursuing 50,000-delivery goal.
+
+CLAIRE BUSHEY AND PETER CAMPBELL, FINANCIAL TIMES - 5/8/2023, 11:57 PM
+
+Enlarge / Rivian pick-up trucks on the assembly line in Normal, Illinois.
+Bloomberg
+
+Spotting an electric truck on the road remains a novelty in most of the US, but not Normal, Illinois.
+
+The town in the Midwestern corn belt is home to the manufacturing operations of Rivian, the battery-powered vehicle start-up worth more than Ford or Volkswagen soon after it listed 18 months ago.
+
+Rivian’s market capitalization has since crumbled from a peak of $162 billion to $12.5 billion in the face of production shortfalls and intensifying competition from carmakers both established and new. It is expected to report a $1.7 billion operating loss on $654 million in revenue in first-quarter results due on Tuesday, according to a compilation of analysts’ estimates.
+
+Much of Rivian’s future is riding on Normal. And the economy of Normal, population 54,000, is now tied to Rivian. The town government bought one of its trucks for its fleet and has ordered a sport utility vehicle.
+
+“We want it to succeed,” said Keith Cornille, president of Heartland Community College in Normal. “If they’re suffering, like in any family, we’re suffering.”
+
+Rivian founder and chief executive RJ Scaringe chose Normal for its first factory, buying a former Mitsubishi car plant weeks away from demolition for $16 million in 2017. The purchase price on the old factory was a bargain, and Normal—the site of the Midwest’s first Tesla supercharger—had attempted to position itself as an electric vehicle hub. Scaringe told a local radio station that the Normal area, with a diverse economy that includes agriculture, universities, and the headquarters of the State Farm insurance company, was different from other regional towns that had lost manufacturers.
+
+Advertisement
+Enlarge / Keith Cornille, president of Heartland Community College: ""We want it to succeed.""
+Justin Lane/Financial Times
+
+“If you look at other plants in the Midwest, and areas affected by their plants shutting down or manufacturing moving out of the area, you don’t have this level of energy,” he said. “You don’t have this level of progressive thinking.”
+
+The company is now the second-largest employer in the metro area that includes Normal and neighboring Bloomington. About 7,500 people work at the plant, roughly half of its workforce. Signs of enthusiasm for Rivian are visible around town, from the company logo emblazoned on the mayor’s Patagonia jacket to the “Rivian Buzz” popcorn sold by a local shop, topped with sprinkles in the carmaker’s signature blue.
+
+The factory struggled to meet ambitious production goals last year, slashing deliveries to 25,000 vehicles from 50,000 as first planned. The problems recalled challenges that confronted Tesla when it scaled up, a period its founder Elon Musk described as “production hell.”
+
+Enlarge
+Financial Times
+
+“What we’re witnessing now is the difficulty of scaling up production in the auto industry,” said Fitch Ratings analyst Stephen Brown. “It’s a very expensive proposition that requires a tremendous amount of cash in the early years, and manufacturers have to get through that before they can get to scale and start generating some profitability . . . It’s a race to get to the other side, before the cash runs low.”
+
+One of Tesla’s early, high-profile manufacturing mistakes included making late changes to products that forced suppliers to change their tooling, adding costs to the process and straining all-important supply chain relationships.
+
+At Rivian, a late change to the headlights sent ripples down the supplier base and forced expensive tooling changes, according to two people with direct knowledge of the process.
+
+Page: 1 2 Next →","https://arstechnica.com/cars/2023/05/welcome-to-normal-the-town-that-holds-the-keys-to-rivians-future/"
+"5/8/2023, 11:27 PM","Former head of Roscosmos now thinks NASA did not land on the Moon","The Soviets were actually orbiting the Moon when Apollo 11 landed.","A MENDACIOUS MUSCOVITE —
+Former head of Roscosmos now thinks NASA did not land on the Moon
+The Soviets were actually orbiting the Moon when Apollo 11 landed.
+
+ERIC BERGER - 5/8/2023, 11:27 PM
+
+Enlarge / Roscosmos head Dmitry Rogozin really knows how to fill out a hard hat.
+Yegor Aleyev / TASS via Getty Images
+
+Dmitry Rogozin was fired as director general of Russia's main space corporation, Roscosmos, nearly a year ago. He has spent much of the time since near the front lines of Russia's invasion of Ukraine, sharing various hateful, threatening, and nationalistic sentiments on his Telegram account.
+
+Occasionally, however, the pugnacious politician still opines about space on his ""Rogozin at the Front"" social media account. He did so this weekend, calling into question whether the United States really did land astronauts on the Moon.
+
+During his four-year tenure at Roscosmos, Rogozin wrote, he asked his leadership team to look into whether NASA had actually landed a dozen astronauts on the Moon in the late 1960s and early 1970s. After all, Rogozin reasoned, ""It was not clear to me how the United States, at that level of technological development of the '60s of the last century, did what they still cannot do now?""
+
+In response to these queries, Rogozin wrote, he received angry responses from academicians and ""fans"" of NASA at Roscosmos who did not want to undermine cooperation with the US space agency on the International Space Station. As evidence for the landing, Rogozin claims he only received a copy of a book by cosmonaut Alexei Leonov.
+
+Accordingly, at the end of this ""investigation,"" Rogozin said he does not believe Americans landed on the Moon but rather that they had succeeded in infiltrating the ""establishment"" of the Russian space program.
+
+Rogozin's doubts about the Apollo Program did not surface publicly during his years at Roscosmos, but there were plenty of other reasons that NASA and other international partners found his leadership style insufferable. He mocked US astronauts, repeatedly threatened to pull Russia out of the space station partnership, and attempted to use the international facility for propaganda purposes. NASA was therefore thrilled to see Rogozin go when he was effectively fired in July 2022.
+
+Advertisement
+
+So why not just ignore this latest outburst from the mendacious Muscovite?
+
+There are two good reasons. One is that Rogozin is tapping into a strengthening current of Moon-landing denialism. It seems to be increasingly in vogue to harbor doubts about whether NASA really could have pulled this off half a century ago, and Rogozin is more than happy to layer this into his vehement anti-Americanism. This denialism should be recognized and shamed.
+
+Secondly, the Russians observed the lunar landing in real time from the ground—and even had a spacecraft in orbit around the Moon. Rogozin's claim that the only evidence Roscosmos could offer of the Moon landings was a book by Leonov is asinine. In reality, at the same time as the Apollo 11 mission in 1969, the Soviets launched a hastily developed lunar sample return mission. This Luna 15 mission was intended to return a few hundred grams of lunar soil just before NASA's astronauts returned to Earth in an effort to upstage NASA.
+
+The Luna 15 spacecraft was in orbit around the Moon at the time Apollo 11 arrived there and when Neil Armstrong and Buzz Aldrin went down to the surface. There were even some backchannel discussions between NASA and the Soviet space program to ensure that the two spacecraft did not interfere with communications between the Moon and Earth. In short, the Soviets were watching the American Moon landing closely and knew fully well what NASA had accomplished.
+
+As for Luna 15, it crashed into the Moon a few hours before Armstrong and Aldrin took off from the Moon to return to Earth. The space race was over.","https://arstechnica.com/science/2023/05/former-head-of-roscosmos-now-thinks-nasa-did-not-land-on-the-moon/"
+"5/8/2023, 10:50 PM","Google passkeys are a no-brainer. You’ve turned them on, right?","The passkey ecosystem is far from complete, but Google's implementation is now ready to use.","PASSKEYS —
+Google passkeys are a no-brainer. You’ve turned them on, right?
+The passkey ecosystem is far from complete, but Google's implementation is now ready to use.
+
+DAN GOODIN - 5/8/2023, 10:50 PM
+
+Enlarge
+Aurich Lawson | Getty Images
+
+By now, you’ve likely heard that passwordless Google accounts have finally arrived. This alternative for passwords is known as ""passkeys.""
+
+There are many misconceptions about passkeys, both in terms of their usability and the security and privacy benefits they offer compared with current authentication methods. That’s not surprising, given that passwords have been in use for the past 60 years, and passkeys are so new. The long and short of it is that with a few minutes of training, passkeys are easier to use than passwords, and in a matter of months—once a dozen or so industry partners finish rolling out the remaining pieces—using passkeys will be easier still. Passkeys are also vastly more secure and privacy-preserving than passwords, for reasons I'll explain later.
+
+What is a passkey anyway?
+
+This article provides a primer to get people started with Google's implementation of passkeys and explains the technical underpinnings that make them a much easier and more effective way to protect against account takeovers. A handful of smaller sites—specifically, PayPal, Instacart, Best Buy, Kayak, Robinhood, Shop Pay, and Cardpointers—have rolled out various options for logging in with passkeys, but those choices are more proofs of concept than working solutions. Google is the first major online service to make passkeys available, and its offering is refined and comprehensive enough that I’m recommending people turn them on today.
+
+First, it helps to know exactly what a passkey is and how it works. Apple provides a helpful description here of the technical underpinnings of passkeys:
+
+Passkeys are built on the WebAuthentication (or ""WebAuthn"") standard, which uses public key cryptography. During account registration, the operating system creates a unique cryptographic key pair to associate with an account for the app or website. These keys are generated by the device, securely and uniquely, for every account.
+
+One of these keys is public, and is stored on the server. This public key is not a secret. The other key is private, and is what is needed to actually sign in. The server never learns what the private key is. On Apple devices with Touch ID or Face ID available, they can be used to authorize use of the passkey, which then authenticates the user to the app or website. No shared secret is transmitted, and the server does not need to protect the public key. This makes passkeys very strong, easy to use credentials that are highly phishing-resistant. And platform vendors have worked together within the FIDO Alliance to make sure that passkey implementations are compatible cross-platform and can work on as many devices as possible.
+
+The FIDO specs require that whatever syncing mechanism a user elects (be it from Apple, Microsoft, Google, or a third party) it provide end-to-end encryption the way iCloud Keychain and password syncing with browsers currently do (on Chrome, the E2EE password syncing must be turned on). This means that the private key is unknown to the cloud provider. The private key resides on the device and can only be accessed by unlocking the device using either a unlock PIN, a fingerprint or face scan. The private key never leaves the trusted user devices, except as an E2EE blob synced through one of the big three or, soon, a third party such as 1Password.
+
+Advertisement
+
+FURTHER READING
+Passwordless Google accounts are here—you can now switch to passkey-only
+Google account passkeys support enough platforms that there’s no single way to use them. The way a person who primarily uses Android and Linux logs in will look different and use a different flow than a person who uses all Apple platforms or a person who uses iOS or Android with Windows. There’s no way to list step-by-step instructions for all platforms in one article. This primer instead uses a mix of devices and OSes—specifically a Pixel 7, an iPhone 13, a ninth-generation iPad, a ThinkPad running Windows 10, and a MacBook Air—with the goal of at least touching on the basic workings of all of them.
+WTF is this passkey doing on my Pixel?
+
+By the time I woke up on Wednesday—the day Google rolled out passwordless Google accounts—my Pixel 7 already had a passkey automatically created. I didn’t notice until I accessed g.co/passkeys, which is a shortcut to myaccount.google.com/signinoptions/passkeys, the page Google has installed for managing account passkeys. To my surprise, the key was already there. Since my account was enrolled in Google’s Advanced Protection Program (APP), this new key appeared immediately above two-factor authentication (2FA) keys that APP requires for bootstrapping new browsers that log in.
+
+The passkey section of myaccount.google.com showing a passkey had automatically been added to a Pixel 7.
+
+As the image indicates, I was using Chrome on the MacBook Air to access the page even though my preferred browser these days is Firefox. The reason: Firefox does not yet support passkeys on macOS, although that will change, likely sooner than later. I ultimately decided to continue using Safari for the rest of the process because passkeys created using that browser on macOS and iOS are automatically synced through the iCloud Keychain. For the time being, passkeys created with Chrome and Edge on Apple platforms are not.
+
+Advertisement
+
+Accessing the same g.co/passkeys page in Safari, I scrolled to the bottom and clicked ""Create a Passkey"" and received a dialog box providing a short explanation of passkeys. From there, I clicked the ""Continue"" button. The next screen that appeared explained I was saving a passkey that would be stored in iCloud. Once I clicked ""done,"" the passkey section of myaccounts.google.com updated to indicate that a new passkey had been created.
+
+The myaccount.google.com page. From here, click ""Create a passkey.""
+Click ""Continue"" on the next screen.
+Click ""Continue"" again.
+Voila. A passkey managed by the iCloud Keychain has been born.
+Previous Slide
+Next Slide
+Page: 1 2 3 4 Next →","https://arstechnica.com/information-technology/2023/05/passwordless-google-accounts-are-easier-and-more-secure-than-passwords-heres-why/"
+"5/8/2023, 10:47 PM","Volkswagen’s troubled software division is getting new leadership. Again.","Bentley's Peter Bosch will move over to run Cariad, according to reports.","OH DEAR NOT AGAIN —
+Volkswagen’s troubled software division is getting new leadership. Again.
+Bentley's Peter Bosch will move over to run Cariad, according to reports.
+
+JONATHAN M. GITLIN - 5/8/2023, 10:47 PM
+
+Enlarge / Dirk Hilgenberg was appointed to take over Cariad from Christian Senger in 2022; now he's to be replaced by someone from Bentley.
+Volkswagen Group
+
+Volkswagen Group's troubled software division Cariad is getting new leadership again. According to Reuters, later today, VW Group is expected to announce that it's replacing Cariad's current boss with Bentley's Peter Bosch. The division was created in 2019 to consolidate software development for VW's 10 different brands under one roof. But it's been anything but smooth sailing ever since, resulting in delays to new models and even the firing of former VW CEO Herbert Diess in 2022.
+
+Cariad was originally charged with developing three different automotive software platforms concurrently. One platform, called E3 1.1, is for VW Group's mass-market electric vehicles like the VW ID.4.
+
+E3 1.2 will debut in the more upmarket EVs currently under development by Audi and Porsche and should appear first in the electric Porsche Macan and Audi's A6 e-tron and Q6 e-tron. But those models have been delayed due to development difficulties and now won't appear until 2024.
+
+E3 2.0 is the most ambitious, and most troubled, of the three platforms. Destined for use in a new EV platform called SSP, E3 2.0 was meant to arrive in 2026 and would include the necessary software for autonomous driving. But SSP has been pushed back to 2028 or 2029, after VW leadership realized that the code simply wouldn't be ready for the original deadline.
+
+As a result, Dirk Hilgenberg is out and will be replaced by Peter Bosch, who has served as Bentley's board member for production since 2017. Reuters says that VW will let almost the entire current Cariad leadership team go, except for the head of human resources.","https://arstechnica.com/cars/2023/05/volkswagens-troubled-software-division-is-getting-new-leadership-again/"
+"5/8/2023, 10:00 PM","Darkest Dungeon 2 is an awkward sequel, but I can’t stop playing it","Now a roguelite, the game retains series' intoxicating combat and stylish flair.","BACK TO THE PIT —
+Darkest Dungeon 2 is an awkward sequel, but I can’t stop playing it
+Now a roguelite, the game retains series' intoxicating combat and stylish flair.
+
+AARON ZIMMERMAN - 5/8/2023, 10:00 PM
+
+Enlarge
+Red Hook Studios
+GAME DETAILS
+Developer: Red Hook Studios
+Platform: PC (Steam and EGS)
+Release Date: May 8, 2023
+Price: $40
+Links: Steam | Epic Games Store | Official website
+
+The worst thing you can do when playing Darkest Dungeon 2 is compare it to its beloved 2016 predecessor. Darkest Dungeon was essentially a 2D XCOM, complete with a base that you managed and upgraded over a long campaign.
+
+Darkest Dungeon 2 is decidedly not that. Instead, it’s a roguelite.
+
+Rather than embarking on a long campaign filled with dozens of units to manage and upgrade as you did in the first game, here, you go on one-and-done “runs” with a stable cast of characters. As you play, you collect a meta-currency to unlock new items and upgrade your characters, stats, and stagecoach between runs.
+
+Enlarge
+
+Returning is the excellent combat and unmatched gothic fantasy aesthetic from the first game. The world of Darkest Dungeon 2 is grim and brutal, with pestilent Lovecraftian horrors teaming up with horrific beasts and crazed cultists to pummel you into submission. The 2D-illustrated characters of the original have been replaced with 3D models—an excellent upgrade—but the general tone of the game is the same, just with improved visuals across the board. Voice actor Wayne June's deep, mournful narration is back and excellent as ever.
+
+Don’t make me turn this thing around
+
+Wait, you said something about a stagecoach? Yep.
+
+This time, instead of delving into the famously dark dungeons of the first game, your party of four adventurers drives a stagecoach through an apocalyptic landscape that is, to be fair, still quite dark. The corruption that plagued your estate in the first game has spread over the wider kingdom, and it's up to your team to bring the ""flame of hope"" across several environments to reach ""the Mountain,"" where they'll fight a boss and save the world. Ideally speaking, of course.
+
+Advertisement
+As your stagecoach goes down the road, you'll need to consult your map to plot out the best route.
+Make it to an inn to give your dog-tired heroes a rest.
+You can also use the inn to upgrade your stagecoach and characters.
+After a run, you can unlock new items for future runs...
+And buff up your characters and other stats.
+Previous Slide
+Next Slide
+
+Tap the W key to set your cart bumping down the road, and you'll automatically stop at points of interest along the way. These stops include battles, of course, but also random encounters where you'll need to make decisions. Do you offer aid to the hapless denizens beseeching your kindness, or do you simply take all their stuff? Your party members all have their own ideas, and going with one over another may cause intra-group strife. As they travel, your heroes may bicker, making the whole endeavor more unpleasant for everyone.
+
+You'll make decisions about which way to go at forks in the road, with a ""scouting"" stat offering you a limited preview of what's to come on the Slay the Spire-style map. I'm a sucker for this style of map in roguelites, and it's implemented excellently here. Runs can be won or lost depending on the route you take.
+
+After making your way through an environment, you'll pull up to an inn, where you can rest up, level up, and buff your characters for the road ahead. And boy, will you need it.
+
+Page: 1 2 3 Next →","https://arstechnica.com/gaming/2023/05/darkest-dungeon-2-is-an-awkward-sequel-but-i-cant-stop-playing-it/"
+"5/7/2023, 11:58 PM","Yet another problem with recycling: It spews microplastics","One recycling facility emits as much as 3 million pounds of microplastics a year.","RECYCLING IS A MESS —
+Yet another problem with recycling: It spews microplastics
+One recycling facility emits as much as 3 million pounds of microplastics a year.
+
+MATT SIMON, WIRED.COM - 5/7/2023, 11:58 PM
+
+Enlarge
+Getty Images
+
+The plastics industry has long hyped recycling, even though it is well aware that it’s been a failure. Worldwide, only 9 percent of plastic waste actually gets recycled. In the United States, the rate is now 5 percent. Most used plastic is landfilled, incinerated, or winds up drifting around the environment.
+
+Now, an alarming new study has found that even when plastic makes it to a recycling center, it can still end up splintering into smaller bits that contaminate the air and water. This pilot study focused on a single new facility where plastics are sorted, shredded, and melted down into pellets. Along the way, the plastic is washed several times, sloughing off microplastic particles—fragments smaller than 5 millimeters—into the plant’s wastewater.
+
+Because there were multiple washes, the researchers could sample the water at four separate points along the production line. (They are not disclosing the identity of the facility’s operator, who cooperated with their project.) This plant was actually in the process of installing filters that could snag particles larger than 50 microns (a micron is a millionth of a meter), so the team was able to calculate the microplastic concentrations in raw versus filtered discharge water—basically a before-and-after snapshot of how effective filtration is.
+
+Advertisement
+
+Their microplastics tally was astronomical. Even with filtering, they calculate that the total discharge from the different washes could produce up to 75 billion particles per cubic meter of wastewater. Depending on the recycling facility, that liquid would ultimately get flushed into city water systems or the environment. In other words, recyclers trying to solve the plastics crisis may in fact be accidentally exacerbating the microplastics crisis, which is coating every corner of the environment with synthetic particles.
+
+“It seems a bit backward, almost, that we do plastic recycling in order to protect the environment, and then end up increasing a different and potentially more harmful problem,” says plastics scientist Erina Brown, who led the research while at the University of Strathclyde.
+
+“It raises some very serious concerns,” agrees Judith Enck, president of Beyond Plastics and a former US Environmental Protection Agency regional administrator, who wasn’t involved in the paper. “And I also think this points to the fact that plastics are fundamentally not sustainable.”
+
+Page: 1 2 Next →","https://arstechnica.com/science/2023/05/yet-another-problem-with-recycling-it-spews-microplastics/"
+"5/6/2023, 8:19 PM","The long-awaited mission that could transform our understanding of Mars","Next-gen gear on delayed Martian rover may help answer the question of life on Mars.","LOOKING FOR LONG-GONE MARTIANS —
+The long-awaited mission that could transform our understanding of Mars
+Next-gen gear on delayed Martian rover may help answer the question of life on Mars.
+
+CARMEN DRAHL, KNOWABLE MAGAZINE - 5/6/2023, 8:19 PM
+
+Enlarge
+NASA/JPL/Cal Tech
+
+March 17, 2022, was a rough day for Jorge Vago. A planetary physicist, Vago heads science for part of the European Space Agency’s ExoMars program. His team was mere months from launching Europe’s first Mars rover—a goal they had been working toward for nearly two decades. But on that day, ESA suspended ties with Russia’s space agency over the invasion of Ukraine. The launch had been planned for Kazakhstan’s Baikonur Cosmodrome, which is leased to Russia.
+
+“They told us we had to call the whole thing off,” Vago says. “We were all grieving.”
+
+It was a painful setback for the beleaguered Rosalind Franklin rover, originally approved in 2005. Budget woes, partner switches, technical issues and the COVID-19 pandemic had all, in turn, caused previous delays. And now, a war. “I’ve spent most of my career trying to get this thing off the ground,” Vago says. Complicating things further, the mission included a Russian-made lander and instruments, which the member states of ESA would need funding to replace. They considered many options, including simply putting the unused rover in a museum. But then, in November, came a lifeline, when European research ministers pledged 360 million euros to cover mission expenses, including replacing Russian components.
+
+When the rover finally does, hopefully, blast off in 2028, it will carry a suite of advanced instruments—but one in particular could make a huge scientific impact. Designed to analyze any carbon-containing material found underneath Mars’s surface, the rover’s next-generation mass spectrometer is the linchpin of a strategy to finally answer the most burning question about the Red Planet: Is there evidence of past or present life?
+
+Advertisement
+
+“There are a lot of different ways that you can search for life,” says analytical chemist Marshall Seaton, a NASA postdoctoral program fellow at the Jet Propulsion Laboratory and coauthor of a paper on planetary analysis in the Annual Review of Analytical Chemistry. Perhaps the most obvious and direct route is simply looking for fossilized microbes. But nonliving chemistry can create deceptively lifelike structures. Instead, the mass spectrometer will help scientists look for molecular patterns that are unlikely to be formed in the absence of living biology.
+
+Hunting for the patterns of life, instead of structures or specific molecules, has an added benefit in an extraterrestrial environment, Seaton says. “It allows us to not only look for life as we know it, but for life as we don’t know it.”
+
+Enlarge / Artist’s rendition of the Rosalind Franklin rover.
+ESA/ATG MediaLab
+Packing for Mars
+
+At NASA’s Goddard Space Flight Center outside Washington, DC, planetary scientist William Brinckerhoff shows off a prototype of the rover’s mass spectrometer, known as the Mars Organic Molecule Analyzer, or MOMA. Roughly the size of a carry-on suitcase, the instrument is a labyrinth of wires and metal. “It’s really a workhorse,” Brinkerhoff says as his colleague, planetary scientist Xiang Li, adjusts screws on the prototype before demonstrating a carousel that holds samples.
+
+This working prototype is used to analyze organic molecules in Mars-like soils on Earth. And once the real MOMA gets to Mars, approximately in 2030, Brinckerhoff and his colleagues will use the prototype—as well as a pristine copy kept in a Mars-like environment at NASA — to test tweaks to experimental protocols, troubleshoot issues that come up during the mission and facilitate interpretation of Mars data.
+
+Advertisement
+
+This latest mass spectrometer can trace its roots back nearly 50 years, to the first mission that studied Martian soil. For the twin 1976 Viking landers, engineers miniaturized room-size mass spectrometers to roughly the footprint of today’s desktop printers. The instruments were also on board the 2008 Phoenix lander, the 2012 Curiosity rover and later Mars orbiters from China, India, and the US.
+
+Anyone visiting Brinckerhoff’s prototype must first pass a display case with a dismantled copy of the Viking instrument on loan from the Smithsonian Institution. “This is like a national treasure,” Brinckerhoff says, enthusiastically pointing out components.
+
+Mass spectrometers are indispensable tools that are used for analytical chemistry in laboratories and other facilities worldwide. TSA agents use them to test luggage for explosives at the airport. EPA scientists use them to test drinking water for contaminants. And drugmakers use them to determine chemical structures of potential new medications.
+
+Many kinds of mass spectrometers exist, but each “is a three-part instrument,” explains Devin Swiner, an analytical chemist at the pharmaceutical company Merck. First, the instrument vaporizes molecules into the gas phase, and also gives them an electrical charge. These charged, or ionized, gas molecules can then be manipulated with electric or magnetic fields so they’ll move through the instrument.
+
+Second, the instrument sorts ions by a measurement that scientists can relate to molecular weight, so they can determine the number and type of atoms a molecule contains. Third, the instrument records all the “weights” in a sample along with their relative abundance.
+
+With MOMA aboard, the Rosalind Franklin rover will land at a Martian site that roughly 4 billion years ago likely had water, a crucial ingredient for ancient life. The rover’s cameras and other instruments will help to select samples and provide context about their environment. A drill will retrieve ancient samples from as deep as two meters. Scientists hypothesize that’s far enough, Vago says, to be shielded from cosmic radiation on Mars that breaks up molecules “like a million little knives.”
+
+Space-bound mass spectrometers must be rugged and lightweight. A mass spectrometer with MOMA’s capabilities would normally occupy multiple workbenches, but it’s been shrunk substantially. “To be able to take something that can be as big as a room to the size of like a toaster or a small suitcase and send it into space is a very huge deal,” Swiner says.
+
+Page: 1 2 Next →","https://arstechnica.com/science/2023/05/the-long-awaited-mission-that-could-transform-our-understanding-of-mars/"
+"5/6/2023, 6:29 AM","President Biden meets with AI CEOs at the White House amid ethical criticism","""A room full of the dudes who gave us the issues & fired us for talking about the risks.""","THE HYPE HOUSE —
+President Biden meets with AI CEOs at the White House amid ethical criticism
+""A room full of the dudes who gave us the issues & fired us for talking about the risks.""
+
+BENJ EDWARDS - 5/6/2023, 6:29 AM
+
+Enlarge / US President Joe Biden and Vice President Kamala Harris meet the 'Investing in America Cabinet' to discuss the Investing in America agenda in the Roosevelt Room of the White House in Washington, DC, on May 5.
+Jim Watson/AFP via Getty
+
+On Thursday, President Joe Biden held a meeting at the White House with CEOs of leading AI companies, including Google, Microsoft, OpenAI, and Anthropic, emphasizing the importance of ensuring the safety of AI products before deployment. During the meeting, Biden urged the executives to address the risks that AI poses. But some AI experts criticized the exclusion of ethics researchers who have warned of AI's dangers for years.
+
+Over the past few months, generative AI models such as ChatGPT have quickly gained popularity and rallied intense tech hype, driving companies to develop similar products at a rapid pace.
+
+FURTHER READING
+Biden proposes new “Bill of Rights” to protect Americans from AI harms
+
+However, concerns have been growing about potential privacy issues, employment bias, and the potential for using them to create misinformation campaigns. According to the White House, the administration called for greater transparency, safety evaluations, and protection against malicious attacks during a ""frank and constructive discussion"" with the executives.
+
+The meeting's most high-profile attendees included Google's Sundar Pichai, Microsoft's Satya Nadella, OpenAI's Sam Altman, and Anthropic's Dario Amodei.
+
+Vice President Kamala Harris chaired the meeting, and in a video of Biden ""dropping by"" posted on Twitter, the president said, ""I just came by to say thanks. What you're doing has enormous potential—and enormous danger. I know you understand that. And I hope you can educate us as to what you think is most needed to protect society as well as to the advancement. This is really, really important.""
+
+Last fall, the Biden administration released a set of guidelines called the ""AI Bill of Rights"" that aims to protect Americans from the detrimental effects of automated systems, including bias, discrimination, and privacy issues.
+
+Advertisement
+AI ethics researchers respond
+
+While Biden's invitation showed executive interest in a hot policy topic, critics of the invitee companies' ethical track records were not impressed by the meeting, with many questioning the choice of inviting people to the meeting who, they argue, represent companies that have created the issues with AI that the White House seeks to address.
+
+On Twitter, AI researcher Dr. Timnit Gebru wrote, ""It seems like we spend half our time talking to various legislators and agencies and STILL we have this shit. A room full of the dudes who gave us the issues & fired us for talking about the risks, being called on by the damn president to 'protect people’s rights.'""
+
+FURTHER READING
+Google parts with top AI researcher after blocking paper, faces blowback
+
+In 2020, Google fired Gebru following a dispute over a research paper she co-authored that highlighted potential risks and biases in large-scale language models. The incident sparked debate within the AI research community about Google's commitment to AI ethics.
+
+Similarly, University of Oxford AI ethics researcher Elizabeth Renieris tweeted, ""Unfortunately, and with all due respect POTUS, these are not the people who can tell us what is ""most needed to protect society"" when it comes to #AI.""
+
+The criticism mirrors the common divide between what is often termed ""AI safety"" (a loose movement concerned primarily with hypothetical existential risk from AI, openly associated with OpenAI employees) and ""AI ethics"" (a group of researchers concerned largely about misapplications and impacts of current AI systems, including bias and misinformation).
+
+FURTHER READING
+OpenAI checked to see whether GPT-4 could take over the world
+
+Along these lines, author Dr. Brandeis Marshall suggested organizing a ""counter-meeting"" to the White House meeting that would include Hugging Face, the Distributed AI Research Institute, the UCLA Center of Critical Internet Inquiry, and the Algorithmic Justice League.
+
+
+Also on Thursday, the White House announced a $140 million investment to launch seven AI research institutes through the National Science Foundation. Additionally, Anthropic, Google, Hugging Face, Nvidia, OpenAI, and Stability AI, will participate in public evaluations of their AI systems at DEF CON 31.
+
+After the White House meeting, Harris released a statement saying, ""The private sector has an ethical, moral, and legal responsibility to ensure the safety and security of their products. And every company must comply with existing laws to protect the American people. I look forward to the follow through and follow up in the weeks to come.""","https://arstechnica.com/information-technology/2023/05/critics-take-aim-at-bidens-ai-meeting-with-ceos-from-google-openai-microsoft/"
+"5/6/2023, 5:39 AM","Apple Arcade still exists, adds 20 new games—and some of them sound neat","The mobile gaming service seemed to lose momentum—Apple wants to regain it.","GAME SUBSCRIPTION SERVICES —
+Apple Arcade still exists, adds 20 new games—and some of them sound neat
+The mobile gaming service seemed to lose momentum—Apple wants to regain it.
+
+SAMUEL AXON - 5/6/2023, 5:39 AM
+
+Enlarge / A screenshot from What the Car?, one of the more intriguing games from Apple's new Arcade additions.
+Apple
+
+Apple Arcade is still around, and it's still a priority—at least, that's the message we imagine Apple's surprise launch of 20 new games on the same day seeks to send.
+
+The new games include (but aren't limited to) a Teenage Mutant Ninja Turtles-branded battler titled TMNT Splintered Fate, a Disney-themed Scrabble-like game called Spellstruck developed in partnership with a Words With Friends co-creator, a city builder called Cityscapes: Sim Builder, and a follow-up to the Arcade smash hit What the Golf? titled What the Car? (If you haven't played What the Golf? yet, you probably should—it's available on other platforms now, too.)
+
+There are also a few updated versions of classic premium games from prior eras of iPhone gaming, like LIMBO, Kingdom Two Crowns, Farming Simulator 20, Octodad: Dadliest Catch, Temple Run, and Bennett Foddy's Getting Over It—think of those like Apple's equivalent of a TV-streaming service also offering episodes of classic TV shows like The Office or Star Trek.
+
+FURTHER READING
+The hidden gems of Apple Arcade
+It's the biggest haul we've seen come out for Arcade in quite some time. The service has recently seen more of a trickle, with one or a small handful of games popping up here and there.
+
+As in Apple Arcade's recent past, the content strategy here seems to be to try to take the best ideas and the best talent from the open App Store marketplace and leverage them to prove the idea that ""mobile games are bad"" is entirely wrong—in one part by curating for quality to counter mobile's signal-noise-ratio problem on that front, and in the other part to strip games of microtransactions—even in genres that were initially developed around that monetization model.
+
+Apple correctly diagnosed that mobile games' reputation problem comes from users' inability to wade through a whole lot of bad games (whether they're bad because the content itself is bad or because monetization sabotages what would otherwise be a good experience) to find the good stuff. There were always good mobile games; users just struggled to find them, and many threw their hands up and stopped trying after having too many bad experiences in the process.
+
+Advertisement
+
+Still, Apple Arcade's growth has been limited, in part because the statement that ""mobile games are bad"" was always wrong to begin with. There are hundreds of outstanding mobile games on both iOS and Android, including many free-to-play ones with reasonable and non-intrusive monetization—so many that it may have proven difficult to upsell iPhone owners on even Arcade's ultra-cheap $4.99 monthly price tag. If there are a dozen games out there that you already enjoy, and they're all free, why would you pay $5 a month for others?
+
+Here are some of the other games added. First up: TMNT Splintered Fate, a ""co-op roguelike adventure.""
+Here's Cityscapes: Sim Builder, a SimCity-style game. It's depicted here running on a Mac—yep, Arcade games run on Macs too, with varying port quality.
+ Apple
+This screenshot is from Kingdom Two Crowns+—that's the title in here for strategy fans.
+ Apple
+It doesn't get much more classic on the iPhone than infinite runner Temple Rush+.
+ Apple
+Bennett Foddy's Getting Over It+ is a cult classic—just be ready to rage at its hilariously absurd difficulty and bizarre presentation.
+ Apple
+One of the original classics of the modern indie revival, LIMBO+ is a moody, black and white platformer.
+ Apple
+This is Farming Simulator 20+, one of the more recent App Store games updated for Arcade.
+ Apple
+Octodad: Dadliest Catch+ is one of the more popular games in that peculiar genre where the controls are infuriating on purpose. (It's a lot of fun, and it's funny.)
+ Apple
+Disney Spellstruck is Words With Friends but Disney—enough said.
+ Apple
+Previous Slide
+Next Slide
+
+Essentially what Apple is providing here is a curation service. Arcade is like having a mobile game personal shopper; you don't have to spend hours trying mediocre games in the App Store and Googling to figure out where to start. You can just join Arcade and expect a certain minimum level of quality. But you might argue that the same people with enough of a desire for great mobile games to pay a monthly fee for that are often the same people who were already willing to put in the work themselves.
+
+FURTHER READING
+Three years after launch, Apple Arcade loses 15 games
+Apple Arcade is not the only game subscription service doing this, though. There's also Netflix Games, which has rapidly grown over the past year and is pushing out titles from popular iOS developers. That includes some that used to put their new games on Arcade, like Alto's Odyssey developer Snowman, which launched the new game Laya's Horizon via Netflix this week.
+
+Games like Laya's Horizon are playable on the iPhone and downloadable via the App Store, but they require a Netflix subscription to play. Recently, Netflix Games have been generating more buzz among influencers and the press than what Apple has been putting out on Arcade.
+
+Of course, media buzz doesn't necessarily equal success, and neither Apple nor Netflix has made many details about individual games' performance public.
+
+While Apple Arcade got some buzz early after it launched in 2019, reports over the ensuing months suggested Apple was struggling to gain as much ground with it as it would like, and much of the buzz quieted down. The company likely hopes this new barrage of games will rekindle some interest, but the competition is fierce, so we'll have to wait and see.
+
+Ars Technica may earn compensation for sales from links on this post through affiliate programs.","https://arstechnica.com/gadgets/2023/05/apple-arcade-still-exists-adds-20-new-games-and-some-of-them-sound-neat/"
+"5/6/2023, 3:37 AM","Brydge is done making Apple gear, leaving preorders unfilled, employees stiffed","Lots went wrong at Brydge, but trying to work inside Apple's market was brutal.","TOUGH TYPING —
+Brydge is done making Apple gear, leaving preorders unfilled, employees stiffed
+Lots went wrong at Brydge, but trying to work inside Apple's market was brutal.
+
+KEVIN PURDY - 5/6/2023, 3:37 AM
+
+Enlarge / The Brydge Max+, one of the company's last iPad products. Brydge focused on aluminum builds, laptop-like hinges, and—before Apple decided it would offer them—integrated trackpads.
+
+Brydge, a company that once aimed to make high-quality iPad keyboards that all but transformed them into MacBooks, has gone out of business. The company's website is just a logo, employees and preordering customers haven't heard anything in months, and 9to5Mac has a detailed telling of Brydge's downfall, supported by conversations with nearly a dozen former employees.
+
+You should read the whole investigation if you want to know how badly managed growth, a hostile workplace, the pandemic, and the nerve-wracking nature of trying to work with and alongside Apple led to Brydge's shuttering. You'll read about business, leadership, and marketing decisions that, with hindsight, point toward an inevitable conclusion. But there's also an inside story about what it's like trying to hitch your wagon to the whims and preferences of the world's largest technology corporation.
+
+A Brydge 9.7-inch iPad keyboard from 2018.
+ Ars Technica
+A Brydge vertical MacBook dock that showed up in a 2020 roundup of home office gear.
+ Ars Technica
+Previous Slide
+Next Slide
+
+Brydge is best known for making Apple accessories, and particularly keyboard cases for iPads, with a focus on materials, design, and functionality that aimed to go further than Apple's own accessories. They were made from aluminum, had a more laptop-like hinge, and their keyboards were backlit. In October 2019, Brydge tried to get a six-month jump on Apple by releasing the trackpad-included Pro+ for iPad Pro. Because iPadOS 13 didn't have native trackpad support—that would arrive with iPadOS 13.4 in March 2020—Brydge's keyboard used an Assistive Touch accessibility workaround. The trackpad and its implementation disappointed critics like Six Colors' Jason Snell.
+
+Advertisement
+
+When Apple's Magic Keyboard arrived in April 2020, it stepped up with not only full trackpad software support and a great Apple-made pad, but multi-finger gestures that Apple wouldn't offer to Brydge. However, Apple offered them to industry leader Logitech for its Combo Touch Case. Brydge was obviously caught off-guard by Apple and Logitech's products launching mere months after its own. When Apple reached out to Brydge to offer better access to its trackpad, Brydge gladly accepted—and soon got a lesson in power dynamics, according to 9to5Mac's sources.
+
+Enlarge / The Brydge Pro+, the keyboard case upon which so much depended.
+Brydge/Amazon
+
+""Apple wanted Brydge to take the lead on unpacking its framework used by the Magic Keyboard in a way that allowed third-party accessory use,"" writes Chance Miller. Apple offered support, but Brydge's questions would trigger questions by Apple as to whether Brydge was a worthwhile partner, and if it needed Apple's help ""too early in the process."" Apple refused to provide debugging tools and would answer questions from engineers with suggestions rather than direct fixes.
+
+All the while, Brydge's not-quite-fixed Pro+ suffered a return rate of over 20 percent. Brydge could not tell customers about its work with Apple on its trackpad, under a non-disclosure agreement. Full trackpad support shipped in February 2021, nearly a year after Logitech's and Apple's products. The company continued to spend marketing money on the Pro+, a vital product that would fund further expansion. Having made it this far into the post, you're likely aware of how that will work out.
+
+From there, Brydge would hungrily chase acquisition, first by Razer and then Targus, and possibly even Foxconn. High product return rates, exceptionally high employee turnover, and a lot of financial question marks would follow. Employees laid off after one failed acquisition in January are still owed their final payouts, and most people who preordered the ProDock in January have yet to hear anything. Brydge issued a press release that its brand and intellectual property have been ""acquired by a third party via a foreclosure process initiated by its senior lender"" and has ceased operations.
+
+Once again, you can read more about what happened at 9to5Mac.
+
+Listing image by Brydge","https://arstechnica.com/gadgets/2023/05/brydge-the-would-be-apple-accessory-king-quietly-calls-it-quits/"
+"5/6/2023, 3:16 AM","Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance","Microsoft's Azure platform currently uses ""tens of thousands"" of Nvidia GPUs.","COMPETITION WOULD BE GOOD —
+Microsoft and AMD are reportedly teaming up to combat Nvidia’s AI dominance
+Microsoft's Azure platform currently uses ""tens of thousands"" of Nvidia GPUs.
+
+ANDREW CUNNINGHAM - 5/6/2023, 3:16 AM
+
+Enlarge / AMD's Instinct AI accelerators aren't as widely used as competing products from Nvidia.
+AMD
+
+The hardware that has enabled and driven the recent explosion of generative AI products has primarily been manufactured by Nvidia. That's thanks in part to its dominant position in the consumer and workstation graphics markets, plus the well-established CUDA libraries and its AI-accelerating Tensor cores.
+
+Although Microsoft uses ""tens of thousands"" of Nvidia GPUs in its Azure data centers, Bloomberg reports that the company is also working with AMD to improve the AI capabilities of its GPUs. Although extremely light on details, the report says Microsoft is contributing ""support"" and ""engineering resources"" to AMD to improve its products' performance in AI workloads.
+
+Bloomberg also says that AMD is working on a Microsoft-developed AI accelerator named ""Athena,"" which The Information reported details on last month. A Microsoft spokesperson, however, flatly denied that AMD was involved in Athena's development.
+
+FURTHER READING
+Microsoft could offer private ChatGPT to businesses for “10 times” the normal cost
+
+The upside for Microsoft is that a more competitive market for AI-accelerating hardware can save on server costs as the company looks to build AI features into more and more of its products. For example, Microsoft is reportedly working on a private version of ChatGPT to offer to businesses that could cost ""10 times"" as much to run as the regular version of ChatGPT; if the server hardware required to run these generative AI models is cheaper, Microsoft could lower its prices, its costs, or both to make these products more appealing.
+
+Advertisement
+
+The two companies have kind-of-sort-of collaborated before; ""Surface Edition"" Ryzen processors have been used in some older versions of Microsoft's Surface PCs, though not in any of the most recent Surface devices. Like the SQ-series chips from Qualcomm that Microsoft uses in the Arm versions of the Surface Pro, the Surface Edition Ryzen processors weren't much different from regular Ryzen processors—they're the same chips AMD sold to other manufacturers but with Microsoft-assisted optimizations to the ""firmware, drivers, and software stack.""
+
+Although it's not representative of how each company's server-grade GPUs perform, recent tests from Tom's Hardware illustrate how AMD's GPU architectures struggle with AI workloads. In testing with the Stable Diffusion image generator, AMD's current Radeon RX 7900 XTX flagship performed slower than Nvidia's RTX 4090, 4080, and 4070 Ti, even though the RX 7900 XTX is faster than the RTX 4080 in most games. Even the entry-level RTX 3050 managed to beat all of AMD's previous-generation RX 6000-series cards (software optimizations could help these cards perform better, but the fact that the software was Nvidia-optimized by default says a lot about the current state of things).","https://arstechnica.com/gadgets/2023/05/microsoft-and-amd-are-allegedly-teaming-up-to-combat-nvidias-ai-dominance/"
+"5/6/2023, 3:08 AM","Toyota’s 2023 Prius: Lamborghini looks meet fuel-sipping economy","There's a lot to like about this new hybrid, which starts at $27,450.","FIND THE SECRET COMPARTMENT —
+Toyota’s 2023 Prius: Lamborghini looks meet fuel-sipping economy
+There's a lot to like about this new hybrid, which starts at $27,450.
+
+JONATHAN M. GITLIN - 5/6/2023, 3:08 AM
+
+Enlarge / The Prius used to be considered quite cool back when it was the first mainstream hybrid on sale. Now in its fifth generation, the new one finally looks really cool.
+Jonathan Gitlin
+
+""It looks fast,"" said my neighbor as they eyed the sleek blue car parked in the shadow of their big BMW X5. That's understandable; from time to time, there are quite fast cars parked in my spot, and this one looked the part, with a steeply canted windshield and big open-spoke alloy wheels wrapped with low-profile tires. In this case, looks are deceiving because the car in question was not a sportscar, it was the new Toyota Prius. Which, no, is not fast at all. But it is rather economical.
+
+Design
+
+The new Prius is a relatively small car by 2023 standards; even with the slight growth in width, it measures 181.1 inches (4,600 mm) long and 70.2 inches (1,783 mm) wide and, in Limited trim, stands 56.3 inches (1,430 mm) high. (Smaller wheels drop 0.4 inches/10 mm in the process.) In fact, that's about as tall as a Corolla or Camry, yet neither of those cars has the stage presence of this Prius.
+
+That's because it has had a radical style upgrade for its fifth generation. It's lower and wider than before and no longer looks like two different cars crashed into each other. Instead, there's a more acute A pillar than you'd find in a Lamborghini Huracan, and the aerodynamicist's touch is clear in the scalloped sides and cut-off tail.
+
+Advertisement
+The design at the rear is all about controlling airflow and preventing the attachment of a wake that can drag on the car.
+ Jonathan Gitlin
+The sides are cut away from the B pillar to the rear wheels to make the shape more efficient.
+ Jonathan Gitlin
+Previous Slide
+Next Slide
+
+Despite that, it's a draggier shape than the car it replaces. Toyota says the drag coefficient is 0.27 on 17-inch wheels, but only the entry-level Prius LE ($27,450) rides on those; every other trim comes with 19-inch wheels that probably increase the Cd to 0.29. But as the more pedantic will know, it's the combination of drag plus frontal area that counts, and although the older Prius had a Cd of 0.24, the two-inch reduction in height should mean the new car comes out ahead.
+
+Powertrain
+
+Toyota has stuck with a parallel hybrid powertrain for the Prius, but it's not just carried over from the old model. The Atkinson-cycle engine has grown in capacity to 2.0 L, and the engine on its own generates 150 hp (112 kW) and 139 lb-ft (188 Nm).
+
+That joins forces with a permanent magnet AC synchronous motor providing 111 hp (83 kW) and 152 lb-ft (206 Nm), both of which drive the front wheels, with a combined output of 194 hp (145 kW). And instead of nickel metal hydride, the traction battery is now lithium-ion, which is smaller and lighter. Battery capacity has increased slightly, to 1.5 kWh.
+
+New for this generation of Prius is the ($1,400) option of electric all-wheel drive; this adds a 40 hp (30 kW), 62 lb-ft (85 Nm) interior permanent magnet motor to the rear axle, raising overall combined power by a couple of horsepower in the process.
+
+Page: 1 2 3 Next →","https://arstechnica.com/cars/2023/05/toyotas-2023-prius-lamborghini-looks-meet-fuel-sipping-economy/"
+"5/6/2023, 2:41 AM","Walensky to step down as head of CDC","Rochelle Walensky faced controversy while balancing pandemic management with reforms.","WALENSKY OUT —
+Walensky to step down as head of CDC
+Rochelle Walensky faced controversy while balancing pandemic management with reforms.
+
+JOHN TIMMER - 5/6/2023, 2:41 AM
+
+Enlarge / CDC Director Rochelle Walensky testifying before Congress.
+Drew Angerer
+
+On Friday, the Centers for Disease Control and Prevention Director Rochelle Walensky announced that she'd be stepping down from her position at the end of June. The announcement came the same day that the World Health Organization announced that COVID no longer constituted an emergency, and Walensky's resignation letter made reference to that: “The end of the COVID-19 public health emergency marks a tremendous transition for our country, for public health, and in my tenure as CDC Director.”
+
+Walensky took on the directorship of the CDC at a very challenging time. The agency was dealing with a number of self-inflicted wounds, such as the failure of its initial tests for SARS-CoV-2 and confused advice on the value of masks. Layered on top of that was a degree of political interference from a White House that wanted to minimize the risk and damage of the pandemic. This included the sidelining of CDC experts who gave realistically grim warnings at the start of the pandemic and the editing of public health guidance by White House political appointees. By the start of the Biden administration, the once-flagship public health organization had lost a lot of its credibility and suffered from severe morale problems.
+
+Advertisement
+
+Walensky took on the task of restoring trust and reforming the agency, starting a restructuring program meant to get CDC to focus on getting the data needed to craft public health advice rather than generate academic publications. Better communication to the public was also a major goal of the reforms.
+
+But the stumbles didn't stop during her tenure at the CDC. The agency overruled its own experts on the use of boosters by high-risk individuals and rapidly issued and reversed advice on masks for people who have been vaccinated.
+
+Regardless, President Biden praised her leadership in a statement on her resignation. “As Director of the CDC, she led a complex organization on the front lines of a once-in-a-generation pandemic with honesty and integrity,"" Biden said. ""Dr. Walensky leaves CDC a stronger institution, better positioned to confront health threats and protect Americans. We have all benefited from her service and dedication to public health, and I wish her the best in the next chapter.”
+
+As of today, there's no indication of what that next chapter will be.","https://arstechnica.com/science/2023/05/walensky-to-step-down-as-head-of-cdc/"
+"5/6/2023, 1:46 AM","US seizes Z-Library login domain, but secret URLs for each user remain active","Z-Library avoids shutdown with personal URLs as Russians face criminal charges.","SINGLELOGIN.ME SEIZED —
+US seizes Z-Library login domain, but secret URLs for each user remain active
+Z-Library avoids shutdown with personal URLs as Russians face criminal charges.
+
+JON BRODKIN - 5/6/2023, 1:46 AM
+
+Enlarge
+Getty Images | asadykov
+
+US authorities have seized another major Z-Library domain but still haven't been able to wipe the pirate book site off the Internet. Z-Library claims to offer over 13 million books, up from 11 million since US authorities launched their first major operation against Z-Library late last year.
+
+""Unfortunately, one of our primary login domains was seized today,"" Z-Library wrote in a Wednesday message on its Telegram account. ""Therefore, we recommend using the domain singlelogin.re to log in to your account, as well as to register. Please share this domain with others.""
+
+In November, US authorities charged Russian nationals Anton Napolsky and Valeriia Ermakova with criminal copyright infringement, wire fraud, and money laundering for allegedly operating Z-Library. The US said at the time that it seized 250 ""interrelated web domains"" run by Z-Library and that Napolsky and Ermakova were arrested in Argentina at the request of the US government.
+
+Advertisement
+
+Other people continue to operate Z-Library, which remained available on the Tor network and returned to the clearnet in February with a new strategy of assigning personal, secret URLs to each user. Z-Library directed users to singlelogin.me, where they could sign in with their login credentials and receive a unique URL to access the entire pirate library.
+
+Singlelogin.me seized
+
+But the singlelogin.me site now displays a ""This website has been seized"" message over Justice Department and FBI logos. As Z-Library's Telegram account noted, singlelogin.re and personal domains remain accessible.
+
+Users can register or log in at singlelogin.re or restore access to existing accounts and personal URLs by ""using our magic email address,"" Z-Library said. ""Just send any letter from your mailbox to this email blackbox@zlib.se, and you will receive your personal access to Z-Library in the auto-generated letter within 3–5 minutes.""
+
+The message on Telegram also said that Z-Library's Tor and I2P networks are accessible. Meanwhile, the criminal case against Napolsky and Ermakova is still pending, and there have been no major updates since November.","https://arstechnica.com/tech-policy/2023/05/us-seizes-z-library-login-domain-but-secret-urls-for-each-user-remain-active/"
+"5/6/2023, 1:26 AM","Moderna rakes in surprise profits ahead of 400% vaccine price hike","Moderna made about $680 million more than expected in the first quarter.","CHA-CHING —
+Moderna rakes in surprise profits ahead of 400% vaccine price hike
+Moderna made about $680 million more than expected in the first quarter.
+
+BETH MOLE - 5/6/2023, 1:26 AM
+
+Enlarge / Moderna CEO Stephane Bancel during a Bloomberg Television interview on the closing day of the World Economic Forum in Davos, Switzerland, on May 26, 2022.
+Getty | Jason Alden
+
+Things are looking rosy for Moderna, as it reported unexpected first-quarter profits Thursday. But the company is not wavering in its plans to dramatically hike the price of its COVID-19 vaccines.
+
+FURTHER READING
+Moderna CEO brazenly defends 400% COVID shot price hike, downplays NIH’s role
+While financial analysts expected the company to post revenue of $1.18 billion and a loss of $1.77 per share in the first quarter, the company reported $1.86 billion in revenue with a small profit of 19 cents per share.
+
+The company forecasts $5 billion in COVID vaccine sales for this year.
+
+The plump profits haven't changed the company's plans for its COVID-19 vaccines. In an earnings call Thursday, Moderna Chief Commercial Officer Arpa Garay confirmed that the company is still proceeding with the 400 percent increase as the vaccines move from federal distribution to the commercial market later this year.
+
+""In terms of pricing across the US market, we do anticipate our list price—when we have our updated vaccines—to be in the range of $110 to $130,"" Garay said.
+
+In March, Moderna CEO Stéphane Bancel unabashedly defended the price hike to lawmakers in the face of biting criticism. Senators in the Congressional hearing emphasized that Moderna developed the vaccine in collaboration with government scientists at the National Institutes of Health, and the federal government spent roughly $10 billion to support clinical development and speed production of the shots in the early days of the pandemic.
+
+Advertisement
+
+FURTHER READING
+Moderna CEO says private investors funded COVID vaccine—not billions from gov’t
+""This vaccine would not exist without NIH's partnership and expertise and the substantial investment of the taxpayers of this country,"" Sen. Bernie Sanders (I-Vt.), who led the hearing, said. ""And here is the thank you that the taxpayers of this country received from Moderna for that huge investment: They are thanking the taxpayers of the United States by proposing to quadruple the price of the COVID vaccine.""
+
+According to a report from The Washington Post last week, Bancel has profited handsomely from the pandemic, which made him a billionaire. Last year, Moderna increased Bancel's salary by 50 percent to $1.5 million and increased his target cash bonus. He also exercised stock options worth nearly $393 million.
+
+Moderna's pay and governance, in general, has raised eyebrows among financial analysts, the Post notes. Moderna board members' pay ranks in the top 25 percent of directors at America's top 500 largest publicly traded companies, with a member's average pay last year set at $475,000. That's well above rival pharmaceutical giants, including Pfizer, Bristol-Myers Squibb, and Merck.","https://arstechnica.com/science/2023/05/moderna-rakes-in-surprise-profits-ahead-of-400-vaccine-price-hike/"
+"5/6/2023, 12:18 AM","Scientists say they have found more moons with oceans in the Solar System","NASA probably is about to get serious about exploring the Uranian system.","WATER WATER EVERYWHERE —
+Scientists say they have found more moons with oceans in the Solar System
+NASA probably is about to get serious about exploring the Uranian system.
+
+ERIC BERGER - 5/6/2023, 12:18 AM
+
+Enlarge / The complex terrain of Ariel is viewed in this image, the best Voyager 2 color picture of the Uranian moon.
+NASA/JPL
+
+In recent decades, NASA has sent large spacecraft—Galileo and Cassini, respectively—to fly around Jupiter and Saturn to explore the dozens of moons that exist in those planetary systems.
+
+The spacecraft investigated all manner of intriguing moons, from little radiation-saturated hellholes to a world covered in volcanoes. But the most consistently interesting discovery made by these probes was that Jupiter and Saturn are surrounded by small and large moons covered in ice, possessing large water oceans below, or both. This was exciting because where there is water in its liquid state, there is the possibility of life.
+
+In response to these discoveries, NASA is planning to launch a mission to Europa, an ice-encrusted moon in the Jovian system, as early as 2024. Another mission may launch to Saturn's moon Titan a few years later, where there are oceans of liquid methane on the surface. And just last month, the European Space Agency launched a spacecraft, Juice, to explore several icy moons at Jupiter.
+
+Now, NASA may need to add the moons of Uranus to its exploration hit list. Besides being known for its funny name and its brilliant cyan shade, Uranus has at least 27 moons. And they're pretty intriguing, too.
+
+The space agency has only ever flown one spacecraft, Voyager 2, by the seventh planet in our Solar System. The Voyager spacecraft flew by Uranus a long time ago, in 1985. But in light of the discoveries made by the Cassini, Dawn, and New Horizons spacecraft, scientists have been revisiting the data collected by Voyager in addition to the data obtained by ground-based telescopes.
+
+Advertisement
+
+This has led NASA scientists to conclude that four of Uranus’ largest moons—Ariel, Umbriel, Titania, and Oberon—probably contain water oceans below their icy crusts. These oceans are likely dozens of kilometers deep and probably fairly salty in being sandwiched between the upper ice and inner rock core. These inner cores are likely producing enough heat from radioactive decay to create layers of liquid water, the scientists say. Additionally, chlorides, as well as ammonia, are likely abundant in the oceans of the icy giant’s largest moons and may be helping to keep them unfrozen.
+
+The good news is that NASA is probably about to get serious about exploring the Uranian system. About a year ago, the National Academies met to prioritize planetary science, astrobiology, and planetary defense missions in the next 10 years, and Uranus topped the list.
+
+FURTHER READING
+NASA: Uranus has “never looked better” in spectacular Webb Telescope image
+
+A ""Uranus Orbiter and Probe"" would, the scientists said, transform our knowledge of ice giants in general and the Uranian system in particular through flybys and the delivery of an atmospheric probe. A launch within the period 2023 to 2032 was deemed viable on currently available launch vehicles.
+
+Now, scientists seeking to explore Uranus have another great reason to send a large spacecraft there—further exploration of icy moons. After all, no one knows what lies in Uranus.
+
+What, you thought I was going to write this whole story without making that joke?","https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/"
+"5/5/2023, 11:59 PM","WHO ends COVID emergency but warns threat is not over","WHO will not hesitate to reinstate the emergency declaration if needed, Tedros said.","EMERGENCY OVER —
+WHO ends COVID emergency but warns threat is not over
+WHO will not hesitate to reinstate the emergency declaration if needed, Tedros said.
+
+BETH MOLE - 5/5/2023, 11:59 PM
+
+Enlarge / World Health Organization (WHO) chief Tedros Adhanom Ghebreyesus speaks at a press conference on the World Health Organization's 75th anniversary in Geneva, on April 6, 2023.
+Getty | FABRICE COFFRINI
+
+The World Health Organization on Friday declared an end to the emergency phase of the COVID-19 pandemic while emphasizing that the health threat is not over.
+
+FURTHER READING
+Pandemic declared as COVID-19 blazes across globe
+""Yesterday, the Emergency Committee met for the 15th time and recommended to me that I declare an end to the public health emergency of international concern [PHEIC],"" WHO Director-General Tedros Adhanom Ghebreyesus said in a press briefing Friday. ""I have accepted that advice.""
+
+The WHO declared the PHEIC more than three years ago on January 30, 2020. Since then, the UN agency estimates that at least 20 million people have died from COVID-19, while the virus SARS-CoV-2 caused profound disruptions and devastation worldwide, leaving deep scars.
+
+Though Tedros said he has ""great hope"" that the emergency is done, he quickly emphasized that the fight is not over. ""Last week, COVID-19 claimed a life every three minutes—and that’s just the deaths we know about,"" he said. ""As we speak, thousands of people around the world are fighting for their lives in intensive care units. And millions more continue to live with the debilitating effects of post-COVID-19 condition. This virus is here to stay. It is still killing, and it is still changing.""
+
+WHO officials emphasized that they expect to continue to see periodic waves of infections and new variants. While the crisis mode is over for now, countries need to transition to a new phase of managing the virus, keeping ready pandemic emergency responses. Officials warned that countries should not dismantle surveillance and response systems that have built up over the past three years, though we've already seen a scale-back of genetic surveillance for new variants.
+
+Advertisement
+
+The WHO also kept on the table the possibility of reinstating a health emergency declaration for COVID-19 if the global situation worsens. Tedros noted Friday that he had decided to exercise a never-before-used provision in the International Health Regulations to set up a Review Committee that will develop long-term recommendations for COVID-19 management.
+
+""I will not hesitate to convene another Emergency Committee should COVID-19 once again put our world in peril,"" Tedros said.
+
+Maria Van Kerkhove, the WHO's technical lead on COVID-19, made a moving plea for countries to continue to build and maintain pandemic preparedness and response plans:
+
+Today, we are sitting here hopeful and humble, looking forward. Looking forward to what needs to be done, looking forward [to] what remains to be done to ensure that we don't lose the momentum over the last three and a half years. While being hopeful, looking to the future, we can't forget the amount of death that has happened. As the [director-general] put it, it didn't have to be this way. And it doesn't have to be this way again.
+
+So we can't forget the images of the hospitals, of the ICUs filled to capacity, of medical gloves filled with warm water that are holding the hands of our loved ones who died, with healthcare workers who ensured that they didn't die alone. We can't forget those fire pyres, we can't forget the graves that were dug. I won't forget them. None of us up here will forget them. And that drives us every single day to do better and to do more. So while I am hopeful, and I really am, I'm quite emotional because there is more we need to do.","https://arstechnica.com/science/2023/05/who-ends-covid-emergency-but-warns-threat-is-not-over/"
+"5/5/2023, 10:35 PM","TikTok spied on me. Why?","A Financial Times journalist writes about discovering she’d been surveilled by TikTok.","CORPORATE STUPIDITY —
+TikTok spied on me. Why?
+A Financial Times journalist writes about discovering she’d been surveilled by TikTok.
+
+CRISTINA CRIDDLE, FINANCIAL TIMES - 5/5/2023, 10:35 PM
+
+Enlarge
+Celina Pereira via Financial Times
+
+One evening in late December last year, I received a cryptic phone call from a PR director at TikTok, the popular social media app. I’d written extensively about the company for the Financial Times, so we’d spoken before. But it was puzzling to hear from her just before the holidays, especially since I wasn’t working on anything related to the company at the time.
+
+The call lasted less than a minute. She wanted me to know, “as a courtesy,” that The New York Times had just published a story I ought to read. Confused by this unusual bespoke news alert, I asked why. But all she said was that it concerned an inquiry at ByteDance, TikTok’s Chinese parent company, and that I should call her back once I’d read it.
+
+The story claimed ByteDance employees accessed two reporters’ data through their TikTok accounts. Personal information, including their physical locations, had been used as part of an attempt to find the writers’ sources, after a series of damaging stories about ByteDance. According to the report, two employees in China and two in the US left the company following an internal investigation. In a staff memo, ByteDance’s chief executive lamented the incident as the “misconduct of a few individuals.”
+
+When I phoned the PR director back, she confirmed I was one of the journalists who had been surveilled. I put down my phone and wondered what it meant that a company I reported on had gone to such lengths to restrict my ability to do so. Over the following months, the episode became just one in a long series of scandals and crises that call into question what TikTok really is and whether the company has the world-dominating future that once seemed inevitable.
+
+During the Internet era that roughly began with the dominance of Google Search, most of us have implicitly traded access to our data in exchange for often marginal digital conveniences. By the time ByteDance was founded in Beijing in 2012, Google had been reading our emails over our shoulders, Amazon had been watching us shop, and Twitter and Facebook had been mediating our messages to friends and foes for years. Indeed, Zhang Yiming, the millennial software engineer who set up ByteDance, modeled himself and aspects of his new company on Silicon Valley. Zhang, who briefly worked for Microsoft before going out on his own, was once fond of quoting Steve Jobs and Jack Welch.
+
+Advertisement
+
+His first hit app, an endlessly scrolling news site called Toutiao (Today’s Headlines), built the foundations for the company’s future growth. Existing platforms such as Facebook and Instagram relied on users manually following friends, celebrities, and companies, whose posts then made up the content they saw on their feeds. Toutiao wasn’t interested in who its users knew, just what they clicked on, which articles they read the whole way through, and which ones they commented on. ByteDance’s underlying technology began generating a profile of what each reader liked and refined that picture every time they opened the app. Within four months of Toutiao’s launch in 2012, it had a million users, and ByteDance had a blueprint for a new kind of non-social social network.
+
+In 2016, ByteDance released Douyin, an app for watching short videos in China. It quickly grew to have more than 100 million users and was launched internationally with a new name: TikTok. The app only took off after ByteDance merged it with another Chinese social site, Musical.ly, which it acquired for $1B in 2017. TikTok’s ever-learning algorithm, which collected location and information on the content of videos (as well as biometric data such as faceprints and voice recognition in the US) was combined with Musical.ly’s video editing tools, which allowed users to easily replicate and repost clips.
+
+All of it went into a product perfectly suited for a generation raised on smartphones. (Sixty percent of users are between 16 and 24 years old, but many are younger.) TikTok’s content is more minutely tailored than other platforms’, meaning each user can feel like they’re finding their own little corner of the site in the form of their “For You” page. My 17-year-old sister has BookTok; I get cooking videos, Marie Kondo-style organization tips, and cats. (When I originally set up my TikTok account to test features on the app I did it in the guise of my fluffy black and white cat, named Buffy after the Vampire Slayer. Technically, it was Buffy’s account that TikTok employees accessed on my phone.)
+
+Advertisement
+
+Almost overnight, TikTok became one of the fastest growing companies in an industry famous for growing fast. It has been downloaded more than three billion times. In 2021, TikTok had more site visits than Google and more watch minutes in the US than YouTube. Globally, users spend 52 minutes per day on TikTok, almost double the time spent per day on Instagram. That made TikTok China’s first app to break out on a truly global scale.
+
+It also made it a target for Beijing’s recent crackdown on Big Tech. In 2018, one of ByteDance’s other apps was accused of promoting immoral content by state media. When it was eventually pulled down, Zhang wrote a public letter of apology, pledging greater censorship of ByteDance content. Along with other prominent tech founders, Zhang stood down as chairman in 2021. (He retains a 20 percent stake in ByteDance, with a separate class of shares that give him additional voting rights and veto powers.)
+
+China possesses considerable power over technology companies. It controls export of ByteDance algorithms, including TikTok’s, and can mandate that companies disclose user data to the state. TikTok has said it has never given data to the Chinese government and wouldn’t do so if it was asked.
+
+Yet, around the world and particularly in the US, TikTok’s biggest market, there is alarm about the security of this data. “This is a tool that is ultimately within the control of the Chinese government… to me, it screams out with national security concerns,” was the assessment of FBI director Christopher Wray earlier this year. In October 2022, Forbes journalist Emily Baker-White reported that a China-based team at ByteDance “planned to use the TikTok app” to pinpoint the precise locations of “specific US citizens.” After the story was published, the company posted a tweet that read: “TikTok has never been used to ‘target’ any members of the US government, activists, public figures or journalists.” As The New York Times made clear a couple of months later, employees at TikTok had already accessed Baker-White’s phone, as well as my own.
+
+Page: 1 2 3 Next →","https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/"
+"5/5/2023, 8:00 PM","Rocket Report: China selling reusable engines; can SpaceX still raise money?","""We all know that China and Russia and others have been doing lots of flights.""","IN THRUST WE TRUST —
+Rocket Report: China selling reusable engines; can SpaceX still raise money?
+""We all know that China and Russia and others have been doing lots of flights.""
+
+ERIC BERGER - 5/5/2023, 8:00 PM
+
+Enlarge / A SpaceX Falcon Heavy rocket launches the Viasat-3 mission on April 30, 2023.
+SpaceX
+
+Welcome to Edition 5.36 of the Rocket Report! A long time ago in a galaxy far, far away, the space media were given a May 4 launch date for United Launch Alliance's Vulcan rocket. Alas, May the 4th, in 2023, wasn't meant to be. In this week's report, I explain why.
+
+As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar.
+
+Electron to serve as a hypersonics test bed. Rocket Lab's small booster will use essentially the same first and second stages for hypersonic test flights, but it will have a modified kick stage that will allow Electron to deploy payloads with a mass of up to 600 kg into trajectories five times greater than the speed of sound, Ars reports. The Army, Navy, and Air Force are all developing hypersonic missiles to provide a fast-moving, maneuverable capability for striking targets quickly from thousands of kilometers away. Among the research problems the military likely wants to test is managing the extreme heat that hypersonic missiles are exposed to by traveling at high speeds in the atmosphere for most of their flight.
+
+Seeking a double-digit cadence ... In an interview, Rocket Lab CEO Peter Beck said the company was able to offer this service because of Electron's reliability and increasing flight rate. ""The whole purpose of this is a high-cadence flight capability,"" he said. ""We all know that China and Russia and others have been doing lots of flights and generating lots of data and really advancing the field in hypersonics. The key to advancing the field here in the United States is to do lots of flights."" Electron launched nine missions in 2022 and is targeting 15 for this year, Beck said.
+
+Advertisement
+
+Latitude goes on a hiring spree. The French launch company said this week it had initiated a ""significant recruitment campaign"" to support the development of its Zephyr smallsat rocket. The campaign aims to fill 100 new positions across various fields such as propulsion engineering, systems, avionics, systems integration, finance, sales, communications, HR, or project management.
+
+A whole new latitude ... Previously, Latitude announced a 10M euro Series A round of fundraising in the summer of 2022 and completed its first cycle of engine testing over the winter. It is now working toward more engine tests this year with the aim of making a debut launch attempt next year. The rocket will have a payload capacity of 100 kg to low-Earth orbit and may launch from SaxaVord, in the Shetland Islands, and Kourou, in French Guiana.
+
+The Rocket Report: An Ars newsletter
+The easiest way to keep up with Eric Berger's space reporting is to sign up for his newsletter, we'll collect his stories in your inbox.
+SIGN ME UP!
+
+China's bustling commercial space industry. According to the China Space Monitor newsletter, the Asian country has approximately 10 commercial rocket startups that could conceivably launch a rocket within the next 12 to 18 months. While there is a reasonable debate to be had about the extent to which these ""private"" companies are truly operating independently of the Chinese government (see next item), there is no question there is an incredible amount of space activity happening.
+
+Successes in space and funding ... As the newsletter notes, one of China's oldest private space companies, iSpace, just successfully returned to flight with its Hyperbola-1 rocket after four failures in a row. In April, Space Pioneer impressively put its debut rocket into orbit, with the Tianlong-2 vehicle. Also during April, Chinese launch startup CAS Space completed a 600M yen ($87M) C-round of funding, bringing the company’s total funds raised to more than 1.2 billion yen. (submitted by brianrhurley)
+
+Page: 1 2 3 Next →","https://arstechnica.com/science/2023/05/rocket-report-china-selling-reusable-engines-can-spacex-still-raise-money/"
+"5/5/2023, 7:45 PM","Synthetic gasoline promises neutral emissions—but the math doesn’t work","E-fuels sound like a panacea, but there's not enough spare electricity to make them.","IT'S VERY ENERGY-INTENSIVE —
+Synthetic gasoline promises neutral emissions—but the math doesn’t work
+E-fuels sound like a panacea, but there's not enough spare electricity to make them.
+
+HAZEL SOUTHWELL - 5/5/2023, 7:45 PM
+
+Enlarge
+Aurich Lawson | Getty Images
+
+Synthetic fuel promises to put gasoline back in our future. Motorsport will be using it in 2026, and European Union law is using it as a stay of execution for the combustion engine. Advertising promises that a future without fossil fuels doesn't need to be one without gasoline. But burning petrochemicals, wherever they come from, is still burning petrochemicals, and synthetic fuels come at a cost their supporters aren't talking about.
+
+We live in perilous times. The annual Intergovernmental Panel on Climate Change report has become blunter with every edition. The sixth, published this March, described the steps we need to take to ""secure a livable future."" Not a good future filled with an abundance of resources and biodiversity, just a survivable one. We're in this situation because we've spent the better part of two centuries digging up fossil fuels and burning them, putting carbon and other greenhouse gases like methane into the atmosphere and causing significant global warming.
+
+But even though there's a domino effect to climate change—drought breeds drought as the land cooks and water seeps into the sea, for instance—mathematically, there is still time to act.
+
+However, it's become clear that we can't be trusted to do the right thing. As the precipice we're wobbling on gets thinner with every misstep, some solutions that may have been on the table 30 years ago aren't great options for our current situation.
+
+Synthetic fuel is one of those solutions.
+
+What is synthetic fuel?
+
+There are many types of fuel that carry the ""sustainable"" label, meaning they're made from a smaller percentage of—or are entirely free from—fossil fuels. They range from things like reusing cooking oil as a diesel replacement to molecularly constructing and then refining methanol.
+
+Synthetic fuels are the latter. In theory, the process is a high school class on organic chemistry: Hydrocarbons are strings of hydrogen and carbon, so you break them apart and put them back together until you have the right one.
+
+Advertisement
+
+The synthesis could be done with any old carbon and hydrogen you happen to have—you could even get them out of fossil fuels if you wanted to needlessly complicate refining crude oil or natural gas. The process of creating synthetic fuel doesn't care where the carbon and hydrogen come from, and there's no purity advantage to them being sustainably generated; it's just the only justifiable way of doing it.
+
+In theory, to make a synthetic fuel, you capture carbon from the air and generate hydrogen from electrolysis of water using clean and renewable electricity. You then jumble the carbon and hydrogen up and put them through a series of processes that ultimately lead to a drop-in gasoline.
+
+When the fuel burns, it's just petrol, and it will re-release the captured carbon into the atmosphere. But it won't have taken any more out of the ground, which is why advocates for synthetic fuel refer to it as carbon-neutral.
+
+It sounds too good to be true: carbon-neutral, guilt-free, renewable fuel for all our existing, beloved cars, planes, and ships. But the process of making synthetic fuel is real and possible.
+
+We can (and in some places, already do) capture carbon from the air. We make hydrogen from electrolysis, though it accounts for just 4 percent of hydrogen generated worldwide. The Fischer-Tropsch process for turning methanol to gasoline exists, and there are catalysts and existing technologies that can make it happen.
+
+Although the process is a very nerdy way of making gasoline, it's not confined to a laboratory stage, and there are companies—more each year—making fuel this way. Porsche opened an enormous new facility in southern Chile at the end of 2022 and generated its first barrel of all-synthetic fuel; it plans to release nearly 11,000 more gallons in 2023.
+
+Germany just pushed the European Union to give a stay of execution to new combustion engine cars in 2035. The condition is that these cars must run only on synthetic fuel (or its more online-sounding synonym, e-fuel). Of course, that may sound like a transparent play to influence emissions restrictions toward the interests of, at the least, the VW Group.
+
+Formula 1 is moving to 100 percent synthetic fuels by 2026, with its feeder series Formula 2 and 3 already steadily increasing the percentage of sustainably sourced gasoline in their Aramco-supplied fuel. There's no shortage of petrochemical companies that want to be part of the shift to gasoline that can wear a carbon-neutral badge.
+
+There's a ""but,"" though: synthetic fuel probably isn't a workable solution.
+
+Page: 1 2 3 Next →","https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/"
+"5/5/2023, 7:42 AM","In a world first, RSV vaccine wins FDA approval for adults 60 and up","It's an achievement decades in the making, and more vaccines are in the pipeline.","SUCCESS —
+In a world first, RSV vaccine wins FDA approval for adults 60 and up
+It's an achievement decades in the making, and more vaccines are in the pipeline.
+
+BETH MOLE - 5/5/2023, 7:42 AM
+
+Enlarge / An electron micrograph of the respiratory syncytial virus (RSV).
+Getty | BSIP
+
+The Food and Drug Administration issued the world's first approval of a vaccine against respiratory syncytial virus (RSV), an achievement that researchers have worked toward for decades after a catastrophic clinical trial in the 1960s.
+
+FURTHER READING
+Why Pfizer’s RSV vaccine success is a big deal, decades in the making
+The vaccine, called Arexvy from pharmaceutical giant GSK, is approved for adults age 60 and over. The Centers for Disease Control and Prevention will need to recommend the vaccine before it will be available for use. The agency's advisory committee for immunizations is next scheduled to meet June 21 to 22 and could discuss the vaccine then.
+
+RSV is a common, highly contagious seasonal respiratory infection. It's often associated with infants, who are at especially high risk of developing severe disease. In fact, bronchitis from RSV infections is the leading cause of hospitalization among infants under the age of 1 in the US. But the virus is also dangerous for older adults, causing an estimated 60,000 to 160,000 hospitalizations and 6,000 to 10,000 deaths in older adults each year in the country.
+
+In an ongoing, randomized placebo-controlled clinical study of adults age 60 and older—in which about 12,500 participants received Arexvy, and 12,500 participants received a placebo—the vaccine reduced the risk of developing lower-respiratory tract infection from RSV by 82.6 percent and reduced the risk of developing a severe RSV infection by 94.1 percent, the FDA noted.
+
+""Older adults, in particular those with underlying health conditions, such as heart or lung disease or weakened immune systems, are at high risk for severe disease caused by RSV,” Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research, said in a statement. The approval Wednesday of this first RSV vaccine is ""an important public health achievement to prevent a disease which can be life-threatening,"" he added.
+
+Advertisement
+Triumph after tragedy
+
+GSK also celebrated the landmark approval, with GSK Chief Scientific Officer Tony Wood saying the approval ""marks a turning point in our effort to reduce the significant burden of RSV.""
+
+GSK's vaccine is just the first of several RSV vaccines in the works. Pfizer has an RSV vaccine for adults 60 and up that was nearly 86 percent effective against severe disease in a phase III trial. It is now being reviewed by the FDA and is expected to gain approval this month. In January, Moderna said its RSV vaccine for older adults was 82 percent effective against severe disease.
+
+Pfizer also has a vaccine to protect infants that is nearing a regulatory decision. When given to pregnant participants in a phase III trial, the vaccine was 82 percent effective at preventing severe RSV in the infants' first three months and 69 percent effective over the first six months.
+
+The vaccines are a triumph after researchers spent decades working to find a safe and effective design for the immunizations. Small trials of early vaccine candidates in the 1960s led to children developing more severe RSV than unvaccinated children. Two vaccinated children died following their infections.
+
+Subsequent research showed that those early doomed vaccines presented a key protein—the F protein—in the wrong conformation, spurring the immune system to generate impotent antibodies and exaggerated inflammatory responses that made the disease worse. It wasn't until decades later that researchers at the National Institutes of Health figured out how to lock the F protein into a conformation that would induce an effective immune response, paving the way for the current vaccine designs.","https://arstechnica.com/science/2023/05/in-a-world-first-rsv-vaccines-wins-fda-approval-for-adults-60-and-up/"
+"5/5/2023, 7:22 AM","As Alexa flounders, Amazon hopes homegrown generative AI can find it revenue","With voice assistants on the brink of death, Amazon targets Alexa large language model.","CAN BOOSTED AI SAVE ALEXA? —
+As Alexa flounders, Amazon hopes homegrown generative AI can find it revenue
+With voice assistants on the brink of death, Amazon targets Alexa large language model.
+
+SCHARON HARDING - 5/5/2023, 7:22 AM
+
+Enlarge / An Amazon Echo Dot.
+Amazon
+
+While voice assistants initially seemed to be a convenient, futuristic way to get information and perform basic tasks, they have barely graduated from that role. And the lack of evolution has left voice assistants surrounded by uncertainty. Google, for example, has shut down third-party Google Assistant smart displays and reportedly shifted Assistant manpower to Bard. But while Google Assistant and Google's experimental Bard chatbot currently feel like different products with different uses, Amazon has dreams of uniting its generative AI efforts with its struggling Alexa business.
+
+It's no secret that belts are tightening at Amazon, compounding interest in making Alexa a strong revenue source. Alexa was reportedly set to lose $10 billion in 2022, per an Insider report, and had failed to sufficiently engage users in ways that make Amazon money. Amazon is also enduring its largest round of layoffs and last week announced it is discontinuing Halo fitness and sleep trackers.
+
+Can generative AI generate Alexa revenue?
+
+Amazon reportedly tried incorporating more AI into Halo before killing it—like having trackers leverage a smartphone camera and computer vision to analyze and share user workout data with Amazon. We weren't eager to trust Amazon with such AI usage; however, Amazon is reportedly shifting some of that invasive AI energy to Alexa.
+
+A report from Insider on Tuesday cited a ""leaked document"" titled ""Alexa LLM [large language model] Entertainment Use Cases."" It reportedly details plans to make Alexa more capable of ""thinking vs. fetching from a database.""
+
+The AI, an Amazon spokesperson told Insider, isn't based on an open source model like versions being developed by other Big Tech companies but, rather, a proprietary LLM called Alexa Teacher Model. Alexa has already been using it for years, but Amazon is ""building new models that are much larger and much more generalized and capable"" to make Alexa ""more proactive and conversational,"" according to Amazon's rep.
+
+Advertisement
+
+The internal document, Insider said, provides an example of what this beefed-up Alexa might be able to do. One sees Alexa creating a bedtime story using a prompt from a kid, like ""cat and a moon."" Amazon seems keen on using cameras to aid its AI, with Insider reporting that Amazon is exploring using an Echo Show smart display camera to identify a toy the child is holding and incorporate that into the story. This sort of intimate data collection for the use of voice assistant skills, however, would likely draw concern. Earlier this week, The Verge reported that Amazon workers ""expressed pause"" about incorporating computer vision into the Halo subscription service.
+
+This storytelling feature could bring revenue by encouraging business partnerships. The leaked document reportedly mentions the hypothetical child holding a toy of Olaf from Frozen that Alexa would add to its story and named Lego ""and others,"" per Insider, as potential partners.
+
+Amazon has been trying to bring in revenue through Alexa partnerships with the likes of Domino's and Uber; however, this newly reported possible use suggests Amazon is considering questionable techniques (that would hopefully require user permission) in the name of a unique generative AI experience. The internal memo is said to discuss making the stories interactive by asking the user to make a corresponding illustration on an Echo Show display or to add to the AI tale.
+
+The leaked memo also looks at ways to leverage Fire TVs to boost Alexa's helpfulness, Insider reported. Fire TV sets and streaming devices are reportedly selling well for Amazon and have the potential for revenue-driving experiences that are harder to replicate with, for example, smart speakers without screens. This includes letting users interact with digital content while connecting them to Prime Video and third-party streaming services.
+
+Page: 1 2 Next →","https://arstechnica.com/gadgets/2023/05/as-alexa-flounders-amazon-hopes-homegrown-generative-ai-can-find-it-revenue/"
+"5/5/2023, 6:39 AM","Luke’s Awakening fan art merges Star Wars with Zelda to delightful 8-bit effect","Game Boy Color pixel art mashes up Star Wars and Zelda into a faux game we wish was real.","MAY THE TRIFORCE BE WITH YOU —
+Luke’s Awakening fan art merges Star Wars with Zelda to delightful 8-bit effect
+Game Boy Color pixel art mashes up Star Wars and Zelda into a faux game we wish was real.
+
+BENJ EDWARDS - 5/5/2023, 6:39 AM
+
+Enlarge / Star Wars: Luke's Awakening imagines a Game Boy Color game that never was.
+Shoehead
+
+Just in time for Star Wars Day, Irish pixel artist and indie game developer Shoehead debuted nine delightful mock-up images of a non-existent Game Boy Color game called Star Wars: Luke's Awakening. It's a fan tribute that melds the design sensibilities of the 1993 Game Boy classic Zelda: Link's Awakening with the storyline of the original Star Wars trilogy.
+
+In the pixel art, Shoehead depicts a title screen and eight key scenes that reflect important events in A New Hope, The Empire Strikes Back, and Return of the Jedi. The scenes include watching the ""Help me, Obi-Wan Kenobi"" sequence with the Jedi master, an encounter with a Wampa on Hoth, a Darth Vader boss battle, evading the Rancor monster, getting zapped by the Emperor, and seeing the Force ghosts of Anakin, Yoda, and Obi-Wan at the end of Return of the Jedi.
+
+Fan-made mock-up title screen artwork for a fantasy Star Wars: Luke's Awakening game.
+ Shoehead
+Watching the ""Help me, Obi-Wan Kenobi"" at old Ben Kenobi's place.
+ Shoehead
+Facing stormtroopers in the Death Star.
+ Shoehead
+An encounter with a Wampa on Hoth.
+ Shoehead
+A boss battle with Darth Vader.
+ Shoehead
+Fighting the guards at Jabba's palace.
+ Shoehead
+Evading the Rancor monster.
+ Shoehead
+Getting zapped by Emperor Palpatine.
+ Shoehead
+Seeing the Force ghosts of Anakin Skywalker, Yoda, and Obi-Wan Kenobi.
+ Shoehead
+Previous Slide
+Next Slide
+
+The images abound with delightful details, such as choices of weapons appropriate for each scene and how Shoehead perfectly adapted the ""chibi"" style of Zelda's Game Boy adventures to Star Wars.
+
+Shoehead's artwork borrows the palette restrictions of Nintendo's 1998 Game Boy Color handheld, which hosted a color-upgraded version of The Legend of Zelda: Link's Awakening DX, as well as Oracle of Ages and Oracle of Seasons.
+
+FURTHER READING
+How to make your old Game Boy as good as (or better than) new
+
+""Link's Awakening DX was the first game I ever bought with my own money,"" Shoehead told Ars. ""I got it the year it came out so I could finally play a Zelda game by myself instead of at a friend's house. So I have a lot of nostalgia for that, as well as the Oracle games.""
+
+Advertisement
+
+Shoehead's love for the Game Boy Color's visual aesthetic runs deep. In 2022, he created several ""demake"" scenes inspired by Elden Ring. ""The way a lot of sprites will share a light tone and black and usually only one unique color makes everything mesh together so well. It's a really unique style, and I think it might only exist because of the jump from the original Game Boy's palette to the Game Boy Color's.""
+
+Tools of the trade
+
+Shoehead says he learned to edit sprites in RPG Maker 2003 as a kid around 20 years ago. Today, he uses Aseprite to draw pixel-art images. ""I grabbed it back when it was super cheap in the early days because I couldn't find a program that clicked with me and I was trying everything,"" he says. ""I usually use both a mouse and an XPPen tablet to pixel, but this one was 100 percent drawn with a mouse.""
+
+Enlarge / 1998's Game Boy Color offered handheld Nintendo games in color for the first time and also played host to three Zelda adventures.
+Nintendo
+
+Shoehead says he started working on the Luke's Awakening artwork on April 6, so the nine-image set took less than a month to complete. ""I was originally going to reskin a Zelda-like game I'm working on and try to cut a trailer from some scenes for fun,"" he says. ""But I got some bad news like immediately after planning it out, so I settled for pixelling some screenshots and taking it easy.""
+
+FURTHER READING
+Happy 30th B-Day, Game Boy: Here are six reasons why you’re #1
+
+While Luke's Awakening exists only in the artist's mind (and these nine images), surely Shoehead, an indie game developer, has been tempted to turn it into a real game? ""Oh, no way, I don't want to deal with Nintendo lawyers AND Disney lawyers,"" he said. ""I have my own Western Zelda-like I'm working on, so this is more like practice for making more of that.""","https://arstechnica.com/gaming/2023/05/star-wars-lukes-awakening-fan-art-imagines-2d-zelda-in-the-star-wars-universe/"
+"5/5/2023, 6:27 AM","Apple Q2 earnings are down, as everything but iPhones is harder to sell","Nothing compares to those sweet Apple Silicon-powered quarters of yore.","Q2 2023 —
+Apple Q2 earnings are down, as everything but iPhones is harder to sell
+Nothing compares to those sweet Apple Silicon-powered quarters of yore.
+
+KEVIN PURDY - 5/5/2023, 6:27 AM
+
+Enlarge / Tim Cook posing for selfie at an Apple Store opening in New Delhi, India. Cook is optimistic about ""switcher and first-time buyer metrics"" in that country.
+Bloomberg/Getty
+
+Apple reported its earnings for Q2 2023 today, beating both Wall Street's and its own dour revenue estimates just a bit but continuing to show marked declines in new hardware sales.
+
+Overall sales revenue was $94.8 billion for Apple's financial quarter ending April 1 (PDF), down 3 percent year over year, short of the 5 percent Apple's data had suggested in January. CEO Tim Cook emphasized Apple's ""all-time record in Services"" and a record iPhone month in March, despite a ""challenging macroeconomic environment,"" in a press release. Services, which includes the App Store, AppleCare, iCloud, and Apple's subscription products, increased to $20.9 billion in Q2, up about 5.5 percent.
+
+iPhone sales increased 1.5 percent to $51.03 billion. Cook told CNBC's Steve Kovach that ""it was quite a good quarter from an iPhone point of view, particularly relative to the market when you look at the market stats.""
+
+Advertisement
+
+Still, Apple did not escape the slumps facing nearly all PC and smartphone makers, as every other hardware category saw declines. Macs dropped a precipitous 31.3 percent, beating even Apple's 25 percent drop projection. iPads fell 16.8 percent to $6.7 billion (Apple had suggested 12 percent), and its wearables, home products, and accessories sales faltered a slight 0.6 percent. Net sales, including services, were down roughly 2.6 percent. Analysts expect tough numbers on new hardware to continue, as likely customers who stocked up during the pandemic now face high inflation and recession concerns.
+
+Cook told CNBC that ""the macro situation in general,"" and comparing this year's quarter to last year when Apple's new M1-powered MacBook Pros were newly available, fed into the downward sales trend.
+
+Net income from sales in Q2 was $24.16 billion versus $25.01 billion last year. Sales fell in most global regions, though they grew in ""Asia Pacific"" to $8.11 billion. India, Cook told CNBC, looks ""very good"" for capturing first-time iPhone buyers and those switching from Android.
+
+Despite the down quarter, Apple continued buying back stocks and paying dividends with its considerable cash pile. Apple had spent more than $572 billion buying back stocks from 2012 through 2022. Thursday's report showed Apple's board authorizing $90 billion in buybacks and dividends.","https://arstechnica.com/gadgets/2023/05/apple-q2-earnings-beat-dour-expectations-rescued-by-iphone-and-services/"
+"5/5/2023, 4:53 AM","Google makes the Pixel Fold official","After years of delays, Google's foldable is finally confirmed.","IT'S REAL! —
+Google makes the Pixel Fold official
+After years of delays, Google's foldable is finally confirmed.
+
+RON AMADEO - 5/5/2023, 4:53 AM
+
+The Google Fold. This is an official shot from Google's video.
+ Google
+The inner screen. Google's choice of an in-bezel camera is still very strange.
+ Google
+The hinge action.
+ Google
+The back! You can make out some camera sensors here.
+ Google
+Previous Slide
+Next Slide
+
+I guess the Pixel Fold wasn't going to be a surprise to anyone after all the leaks, so why not just announce it? Google posted a teaser site for the long-awaited foldable, where you can join a mailing list for ""The first foldable phone engineered by Google."" This is the first time the company has acknowledged the Fold's existence.
+
+We've already been through CAD-based renders, one very brief hands-on video, and the leak of the official renders, but we can still learn a bit from the video. Namely it's clear that the sides and camera bar of the phone have been polished to a mirror finish, just like the Pixel 7 Pro. That mirror finish will very quickly show scratches, and the camera bar on our Pixel 7 Pro hasn't held up well over time. Like we said in our Pixel 7 Pro review, the cheaper Pixel 7 went out the door with a matte sandblasted aluminum finish, and that both looks better and is more durable.
+
+We're only getting official looks at the phone today—the specs and pricing will presumably be revealed at I/O. Rumors from CNBC have the phone shipping in June for $1,700-plus. The Fold is expected to have a 7.6-inch inner display and a 5.8-inch outer display and ship with the usual Google Tensor G2 chip.
+
+Google I/O is May 10. There are just a few days left now.
+
+Listing image by Google","https://arstechnica.com/gadgets/2023/05/google-makes-the-pixel-fold-official/"
+"5/5/2023, 4:47 AM","Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs","Sundar Pichai compared to Lord Farquaad as employees share memes about CEO pay.","THE MEMES OF GOOGLERS' DISCONTENT —
+Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs
+Sundar Pichai compared to Lord Farquaad as employees share memes about CEO pay.
+
+JON BRODKIN - 5/5/2023, 4:47 AM
+
+Enlarge / Google CEO Sundar Pichai speaks at Vox Media's Code Conference on September 6, 2022, in Beverly Hills, California.
+Getty Images | Jerod Harris
+
+Following Google's layoff of 12,000 employees and other cost-cutting moves, employees are reportedly expressing anger about CEO Sundar Pichai's $226 million pay package.
+
+""In the weeks since Pichai's annual compensation was made public, internal Google platforms have filled with conversations and memes slamming the CEO for taking a pay bump while slashing costs elsewhere,"" CNBC reported yesterday. CNBC's report said internal memes shared by employees also criticized Google owner Alphabet's recent authorization of a $70 billion stock repurchase program, the same amount as last year. Pichai is the CEO of both Alphabet and Google.
+
+According to CNBC, one ""popular meme showed an image of Shrek character Lord Farquaad with the text 'Sundar accepting $226 million while laying off 12k Googlers, cutting perks, and destroying morale and culture.'"" It also included the Farquaad quote, ""some of you may die, but that is a sacrifice I am willing to make.""
+
+The median Alphabet employee was paid $279,802 in 2022. Although Alphabet lists Pichai's 2022 compensation as $226 million, most of it will vest over three years, and the amount could change. The total value is lower than the triennial award he got for the previous three-year period.
+
+“We respect shareholders more than Googlers”
+
+One meme with over 700 likes read, ""$70 billion in buybacks shows we respect external shareholders more than Googlers,"" according to CNBC. There were also reportedly memes ""comparing Pichai to Apple CEO Tim Cook, who in January received over a 40 percent cut from his 2022 target total compensation.""
+
+Cook requested a pay cut that dropped his target compensation to $49 million in 2023. In 2022, Cook's target compensation was $84 million, but he ended up receiving $99.4 million.
+
+CNBC said it viewed over a dozen memes shared in Google's internal discussion forums, including one ""with more than 1,200 likes [that] referred to comments from finance chief Ruth Porat, who wrote last month in a rare companywide email that the company is making 'multi-year' cuts to employee services.""
+
+Advertisement
+
+""Ruth's cost savings applied to everyone… except our hardworking VPs and CEO,"" the meme reportedly said. The spending cuts announced by Porat reportedly target office supplies, laptop replacements, fitness classes, snack bars, cafeterias, and more.
+
+When contacted by Ars, a Google spokesperson declined to comment on the report of employee complaints.
+
+After Google's January announcement of 12,000 layoffs, Pichai reportedly said in a meeting with staff that Google executives would take a ""very significant reduction in their annual bonus."" Pichai wrote in an email to employees that ""I take full responsibility for the decisions that led us here,"" saying that over the past two years the company ""hired for a different economic reality than the one we face today."" Alphabet had 190,234 employees at the end of 2022.
+
+In Q1 2023, Alphabet reported revenue of $69.8 billion and net income of $15.1 billion, outperforming analysts' expectations.
+
+CEO-to-worker pay ratio of 808:1
+
+Pichai's compensation includes a $218 million stock award that was granted in December 2022 and will vest over three years, according to a regulatory filing. The amount could change in value depending on the company's stock performance. Pichai's total pay in 2021 was listed as $6.3 million, and in 2020 it was $7.4 million.
+
+Pichai's listed annual pay varies significantly because of the large stock awards he's granted once every three years. His 2019 pay was $280.6 million and his 2016 pay was about $200 million.
+
+Alphabet reported that Pichai's 2022 compensation was 808 times more than the median employee's. ""Given that CEO equity awards are currently made on a triennial cadence, while our broad-based employee equity awards are typically made on an annual cadence, the pay ratio can fluctuate significantly across years. For example, our 2020 pay ratio was 27:1; our 2021 pay ratio was 21:1; and our 2022 pay ratio is 808:1,"" Alphabet's filing said.
+
+Alphabet's CEO-to-employee ratio was 1,085:1 in 2019, when Pichai was awarded $280.6 million and the median salary was $258,708. Apple reported a pay ratio in 2022 of 1,177:1. Apple's ratio is likely to drop in 2023 because of Cook's pay cut.
+
+In a December 2022 filing, Alphabet said that the ""vesting of a significant portion of the award will depend on Alphabet's total shareholder return (relative to S&P 100 companies), and this performance-based equity may not vest at all."" Alphabet also said it increased the proportion of ""performance stock units"" in Pichai's pay package from 43 percent to 60 percent, and changed the S&P 100 percentile target from the 50th percentile to the 55th percentile.
+
+These changes will ""further align Mr. Pichai's compensation to long-term shareholder value creation and Alphabet's stock performance relative to the S&P 100 over the applicable performance periods,"" the company said.","https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/"
+"5/5/2023, 4:30 AM","Snoop Dogg on AI risk: “Sh–, what the f—?”","The music legend expressed his concerns during a Milken Institute panel with Larry Jackson.","PERSPECTIVES ON ARTIFICIAL INTELLIGENCE —
+Snoop Dogg on AI risk: “Sh–, what the f—?”
+The music legend expressed his concerns during a Milken Institute panel with Larry Jackson.
+
+BENJ EDWARDS - 5/5/2023, 4:30 AM
+
+Enlarge / Snoop Dogg talking about AI at the 2023 Milken Institute Global Conference on May 3, 2023.
+Milken Institute
+
+On Wednesday, celebrated multi-platinum recording artist Snoop Dogg took part in a panel at the Milken Institute's 2023 Global Conference in Beverly Hills, California. After fielding a question by Variety editor Shirley Halperin about AI in relation to the 2023 WGA writers' strike, Snoop expressed his bemused feelings on AI in a genuinely funny exchange, resulting in convivial laughter from the audience.
+
+During his response, Snoop described how conversing with a large language model (such as ChatGPT or Bing Chat) reminds him of sci-fi movies he watched as a kid. Showing that he keeps up with current events, Snoop also referenced Geoffery Hinton, who resigned this week from Google so he could speak of the dangers of AI without conflicts of interest:
+
+Well I got a motherf*cking AI right now that they did made for me. This n***** could talk to me. I'm like, man this thing can hold a real conversation? Like real for real? Like it's blowing my mind because I watched movies on this as a kid years ago. When I see this sh*t I'm like what is going on? And I heard the dude, the old dude that created AI saying, ""This is not safe, 'cause the AIs got their own minds, and these motherf*ckers gonna start doing their own sh*t. I'm like, are we in a f*cking movie right now, or what? The f*ck man? So do I need to invest in AI so I can have one with me? Or like, do y'all know? Sh*t, what the f*ck?"" I'm lost, I don't know.
+
+Snoop's confusion over today's AI systems reflects what may be a common sentiment among people who are trying to understand and follow the latest developments in generative AI, which have unfolded rapidly over the past year. His unguarded observations on AI are notable coming from a highly respected multi-award-winning musical artist and entrepreneur.
+
+Advertisement
+FURTHER READING
+Why ChatGPT and Bing Chat are so good at making things up
+
+The Milken Institute is a nonprofit, nonpartisan economic think tank that is focused on ""accelerating measurable progress on the path to a meaningful life."" Every year, the Institute hosts the Milken Institute Global Conference. In 2023, according to its website, the conference convened ""the best minds in the world to tackle its most urgent challenges and realize its most exciting opportunities.""
+
+During the same Snoop Dogg panel, which took place with music label CEO Larry Jackson of Gamma Records, Snoop also expressed solidarity with striking members of the WGA. And he took umbrage over what he sees as the lack of fair compensation for artists through music streaming services: ""Can somebody explain to me how you can get a billion streams and not get a million dollars? That sh*t don't make sense to me.""
+
+You can watch the full Snoop Dogg panel on the Milken Institute website.","https://arstechnica.com/information-technology/2023/05/snoop-dogg-on-ai-risk-sh-what-the-f/"
+"5/5/2023, 2:22 AM","“Are you still in business?”—Hyper support ghosts customers, spurring outrage","Recall claims and RMA requests went unanswered, orders unfulfilled.","FOR A COMPANY NAMED HYPER, SUPPORT SEEMED LAX —
+“Are you still in business?”—Hyper support ghosts customers, spurring outrage
+Recall claims and RMA requests went unanswered, orders unfulfilled.
+
+SCHARON HARDING - 5/5/2023, 2:22 AM
+
+Enlarge / A Hyper GaN charger.
+Hyper
+
+Hyper, known for making some of the best GaN chargers, as well as docks, battery packs, and other accessories, has some work to do to win back customers after numerous complaints of its support team going silent and the dysfunction of its 1-800 support numbers. The silent treatment was so bad that some questioned if Hyper was even a company anymore. Hyper tells Ars Technica that it, indeed, is still a company and that its support services are now back on track after facing technical difficulties amid a revamp following its 2021 acquisition by Targus.
+
+The silent treatment
+
+Various complaints about Hyper's support over the past few weeks are easily found online. A Reddit thread from Monday, for example, urges people to stop buying Hyper products due to a lack of tech and RMA support. The user, ""eat_pb,"" claimed to have sent in a HyperJuice battery pack for replacement since one of its USB-C ports stopped working.
+
+""Fast-forward 4 weeks and I've heard nothing from HYPER. No replacement battery pack has been shipped. I've sent several emails to their support address, asking about the status of my RMA, with no answer. I've tried calling the support phone numbers listed on their website, but both numbers have been disconnected,"" eat_pb wrote.
+
+Advertisement
+
+There are similar accounts shared on Twitter. One user claimed to be unable to get a recall claim fulfilled. Some have complained about unfulfilled orders.
+
+This user, for example, claims to have been speaking with Hyper's support team online, only to eventually be ghosted for three months and still see no resolution after four months:
+
+On Twitter, many of the complaints have responses from Hyper's Twitter handle, asking the customer to email Hyper's support team, but some customers responded saying they have emailed Hyper and/or direct-messaged details to the Hyper Twitter account and received no response:
+
+The lack of communication prompted some to wonder if Hyper is even still in business.
+
+As recently as Monday, Hyper's online support page had been sharing a 1-800 number to contact, the same number its Twitter account had recommended to some customers. However, when I called it on Monday and every day since, I got a busy signal.
+
+Over the past weeks, Hyper's Twitter kept directing people to support channels for which Hyper seemingly had limited to no ability to monitor. The company didn't provide an explanation to online complaints about why Hyper support was virtually non-existent until a day after Ars Technica reached out to it about the complaints.
+
+""We apologize for the delay in our customer service response time. Unfortunately, our phone line is currently down due to technical difficulties. Rest assured, we are still here to support you through our email support@hypershop.com. I'll DM you in regards to your case,"" Hyper's Twitter account wrote on May 2, responding to a frustrated user's April 30 complaint.
+
+Page: 1 2 Next →","https://arstechnica.com/gadgets/2023/05/are-you-still-in-business-hyper-support-ghosts-customers-spurring-outrage/"
